@@ -7,7 +7,7 @@ Hackathon Hacks AI Cheboksary, October 2021
 - Правдин Олег
 - Чернов Александр
 - Четкина Яткина
-- Аиша
+- Мухаметшина Аиша
 # Содержание репозитория
 - Модель ML и preprocessing data
 - Backend
