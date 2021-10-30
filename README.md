@@ -8,3 +8,7 @@ Hackathon Hacks AI Cheboksary, October 2021
 - Чернов Александр
 - Четкина Яткина
 - Аиша
+# Содержание репозитория
+- Модель ML и preprocessing data
+- Backend
+- Frontend
