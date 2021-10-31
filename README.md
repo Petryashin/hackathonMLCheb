@@ -1,6 +1,6 @@
 # Хакатон по машинному обучению
 Hackathon Hacks AI Cheboksary, October 2021
-# Команда "HACKERMENS"
+# Команда "HACKERMANS"
 Участники:
 - Петряшин Александр
 - Петряшин Илья

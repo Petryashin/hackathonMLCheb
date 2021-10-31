@@ -1,0 +1,2532 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmfilter 1.4.4">
+	<bounds minlat="56.051" minlon="47.096" maxlat="56.157" maxlon="47.427"/>
+	<node id="679797702" lat="56.1469787" lon="47.1624264" version="3" timestamp="2015-12-22T13:05:39Z" changeset="0"/>
+	<node id="682348085" lat="56.1468816" lon="47.1723148" version="3" timestamp="2017-12-19T21:49:08Z" changeset="0"/>
+	<node id="682348086" lat="56.1468902" lon="47.1747876" version="4" timestamp="2017-12-19T21:49:08Z" changeset="0"/>
+	<node id="682348088" lat="56.1462955" lon="47.1754045" version="5" timestamp="2017-12-19T21:49:08Z" changeset="0"/>
+	<node id="682348089" lat="56.1457919" lon="47.1754453" version="4" timestamp="2017-12-19T21:49:08Z" changeset="0"/>
+	<node id="682348090" lat="56.1458097" lon="47.1722401" version="3" timestamp="2017-12-19T21:49:09Z" changeset="0"/>
+	<node id="683798844" lat="56.1143653" lon="47.2414616" version="4" timestamp="2019-09-08T14:53:03Z" changeset="0"/>
+	<node id="683798845" lat="56.1149552" lon="47.2398683" version="3" timestamp="2019-09-08T14:53:03Z" changeset="0"/>
+	<node id="683798846" lat="56.1147608" lon="47.2396108" version="3" timestamp="2019-09-08T14:53:03Z" changeset="0"/>
+	<node id="683798847" lat="56.1139831" lon="47.2397449" version="3" timestamp="2019-09-08T14:53:03Z" changeset="0"/>
+	<node id="685010097" lat="56.1433258" lon="47.1755106" version="5" timestamp="2014-09-01T13:44:19Z" changeset="0"/>
+	<node id="685010098" lat="56.143141" lon="47.1755182" version="6" timestamp="2014-09-01T13:44:19Z" changeset="0"/>
+	<node id="685037913" lat="56.1440105" lon="47.1724075" version="4" timestamp="2014-09-01T13:44:20Z" changeset="0"/>
+	<node id="685037914" lat="56.1440411" lon="47.1742631" version="4" timestamp="2014-09-01T13:44:20Z" changeset="0"/>
+	<node id="685037915" lat="56.1435016" lon="47.1742583" version="4" timestamp="2014-09-01T13:44:20Z" changeset="0"/>
+	<node id="685037916" lat="56.1435" lon="47.1750474" version="3" timestamp="2014-09-01T13:44:20Z" changeset="0"/>
+	<node id="685037917" lat="56.1430826" lon="47.1755242" version="3" timestamp="2014-09-01T13:44:20Z" changeset="0"/>
+	<node id="685037918" lat="56.1424515" lon="47.1752104" version="3" timestamp="2014-09-01T13:44:20Z" changeset="0"/>
+	<node id="685037919" lat="56.142392" lon="47.1751047" version="3" timestamp="2014-09-01T13:44:20Z" changeset="0"/>
+	<node id="685037920" lat="56.1420877" lon="47.1731569" version="3" timestamp="2014-09-01T13:44:20Z" changeset="0"/>
+	<node id="685037921" lat="56.1420948" lon="47.1723813" version="4" timestamp="2014-09-01T13:44:20Z" changeset="0"/>
+	<node id="687889735" lat="56.1463263" lon="47.1799795" version="8" timestamp="2018-10-25T17:42:01Z" changeset="0"/>
+	<node id="687889749" lat="56.1450719" lon="47.1798444" version="7" timestamp="2016-01-11T14:15:20Z" changeset="0"/>
+	<node id="687889750" lat="56.1450632" lon="47.1782637" version="6" timestamp="2016-01-11T14:15:20Z" changeset="0"/>
+	<node id="687889754" lat="56.1463244" lon="47.1782456" version="6" timestamp="2013-04-07T17:36:07Z" changeset="0"/>
+	<node id="692969707" lat="56.1419608" lon="47.1904226" version="5" timestamp="2016-04-13T20:47:18Z" changeset="0"/>
+	<node id="692969709" lat="56.1416454" lon="47.1902942" version="5" timestamp="2016-04-13T20:47:18Z" changeset="0"/>
+	<node id="692969712" lat="56.1416114" lon="47.1905736" version="5" timestamp="2016-04-13T20:47:18Z" changeset="0"/>
+	<node id="692969715" lat="56.141981" lon="47.1908593" version="5" timestamp="2016-04-13T20:47:18Z" changeset="0"/>
+	<node id="692969721" lat="56.14244" lon="47.1917813" version="5" timestamp="2016-04-13T20:47:18Z" changeset="0"/>
+	<node id="692969723" lat="56.1423375" lon="47.1918984" version="5" timestamp="2016-04-13T20:47:18Z" changeset="0"/>
+	<node id="692969729" lat="56.1421811" lon="47.1914574" version="5" timestamp="2016-04-13T20:47:18Z" changeset="0"/>
+	<node id="692969731" lat="56.14194" lon="47.1917329" version="5" timestamp="2016-04-13T20:47:18Z" changeset="0"/>
+	<node id="692969733" lat="56.1420793" lon="47.1921258" version="5" timestamp="2016-04-13T20:47:18Z" changeset="0"/>
+	<node id="692969734" lat="56.1419861" lon="47.1922322" version="5" timestamp="2016-04-13T20:47:18Z" changeset="0"/>
+	<node id="692969735" lat="56.1416548" lon="47.1912978" version="5" timestamp="2016-04-13T20:47:18Z" changeset="0"/>
+	<node id="692969737" lat="56.1417566" lon="47.1911815" version="5" timestamp="2016-04-13T20:47:18Z" changeset="0"/>
+	<node id="692969739" lat="56.1418798" lon="47.1915291" version="5" timestamp="2016-04-13T20:47:18Z" changeset="0"/>
+	<node id="692969741" lat="56.1421209" lon="47.1912539" version="5" timestamp="2016-04-13T20:47:18Z" changeset="0"/>
+	<node id="693234832" lat="56.1459429" lon="47.1799989" version="7" timestamp="2018-10-25T17:50:59Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="693348611" lat="56.146368" lon="47.1908908" version="2" timestamp="2010-09-05T09:41:57Z" changeset="0"/>
+	<node id="693348613" lat="56.1458462" lon="47.1915446" version="3" timestamp="2013-09-12T20:09:20Z" changeset="0"/>
+	<node id="693348614" lat="56.145623" lon="47.1908724" version="2" timestamp="2010-09-05T09:42:08Z" changeset="0"/>
+	<node id="693348618" lat="56.1452304" lon="47.1912679" version="3" timestamp="2012-08-19T06:14:02Z" changeset="0"/>
+	<node id="693348620" lat="56.145145" lon="47.1910214" version="5" timestamp="2012-08-19T06:14:02Z" changeset="0"/>
+	<node id="693348626" lat="56.1444795" lon="47.1917646" version="3" timestamp="2012-08-19T06:14:02Z" changeset="0"/>
+	<node id="693348632" lat="56.1441102" lon="47.1907159" version="2" timestamp="2010-09-05T09:43:29Z" changeset="0"/>
+	<node id="693348640" lat="56.144133" lon="47.1894073" version="3" timestamp="2016-04-13T20:47:18Z" changeset="0"/>
+	<node id="693348645" lat="56.1459264" lon="47.1895165" version="2" timestamp="2010-09-05T09:43:32Z" changeset="0"/>
+	<node id="694471694" lat="56.1152137" lon="47.1836493" version="10" timestamp="2016-03-31T22:23:41Z" changeset="0"/>
+	<node id="694471699" lat="56.1144456" lon="47.1852118" version="11" timestamp="2018-01-15T14:30:23Z" changeset="0"/>
+	<node id="694471705" lat="56.1134121" lon="47.1835526" version="11" timestamp="2018-01-15T14:30:23Z" changeset="0"/>
+	<node id="694471710" lat="56.1142213" lon="47.1819861" version="11" timestamp="2018-01-15T14:30:23Z" changeset="0"/>
+	<node id="695150504" lat="56.1199527" lon="47.1785221" version="4" timestamp="2016-04-02T23:01:45Z" changeset="0"/>
+	<node id="695150505" lat="56.1191511" lon="47.1785282" version="4" timestamp="2016-04-02T23:01:45Z" changeset="0"/>
+	<node id="695150506" lat="56.1189185" lon="47.1781471" version="6" timestamp="2016-04-02T23:01:45Z" changeset="0">
+		<tag k="access" v="yes"/>
+		<tag k="barrier" v="entrance"/>
+	</node>
+	<node id="695150507" lat="56.1186277" lon="47.1776535" version="4" timestamp="2016-04-02T23:01:45Z" changeset="0"/>
+	<node id="695150509" lat="56.1185259" lon="47.1761963" version="4" timestamp="2016-04-02T23:01:45Z" changeset="0"/>
+	<node id="695150510" lat="56.1177865" lon="47.1763099" version="4" timestamp="2016-04-02T23:01:45Z" changeset="0"/>
+	<node id="695150511" lat="56.1172204" lon="47.1774303" version="3" timestamp="2014-04-17T21:37:55Z" changeset="0"/>
+	<node id="695150513" lat="56.1184749" lon="47.179078" version="6" timestamp="2016-04-02T23:01:46Z" changeset="0">
+		<tag k="access" v="yes"/>
+		<tag k="barrier" v="entrance"/>
+	</node>
+	<node id="695150514" lat="56.1186915" lon="47.179417" version="5" timestamp="2016-04-02T23:01:46Z" changeset="0"/>
+	<node id="695150516" lat="56.1190912" lon="47.1794249" version="5" timestamp="2015-11-13T01:20:00Z" changeset="0">
+		<tag k="access" v="yes"/>
+		<tag k="barrier" v="entrance"/>
+		<tag k="motor_vehicle" v="no"/>
+	</node>
+	<node id="695150517" lat="56.1194138" lon="47.179882" version="4" timestamp="2016-04-02T23:01:46Z" changeset="0"/>
+	<node id="695150518" lat="56.1199524" lon="47.1795063" version="4" timestamp="2016-04-02T23:01:46Z" changeset="0"/>
+	<node id="695420454" lat="56.1159605" lon="47.1877134" version="5" timestamp="2016-03-31T22:23:44Z" changeset="0"/>
+	<node id="696720564" lat="56.11714" lon="47.1896533" version="4" timestamp="2016-03-31T22:23:44Z" changeset="0"/>
+	<node id="696720725" lat="56.1159616" lon="47.1875065" version="5" timestamp="2016-03-31T22:23:44Z" changeset="0"/>
+	<node id="696720726" lat="56.1173217" lon="47.1896754" version="5" timestamp="2016-03-31T22:23:44Z" changeset="0"/>
+	<node id="696720727" lat="56.1180278" lon="47.1881753" version="4" timestamp="2016-03-31T22:23:44Z" changeset="0"/>
+	<node id="696720729" lat="56.1166901" lon="47.1860199" version="4" timestamp="2016-03-31T22:23:44Z" changeset="0"/>
+	<node id="697356029" lat="56.1248064" lon="47.1904396" version="3" timestamp="2018-01-22T08:26:59Z" changeset="0"/>
+	<node id="697356034" lat="56.1238871" lon="47.1918522" version="3" timestamp="2018-01-22T08:26:59Z" changeset="0"/>
+	<node id="697356049" lat="56.1257239" lon="47.1921313" version="3" timestamp="2018-01-22T08:26:59Z" changeset="0"/>
+	<node id="697447195" lat="56.1233011" lon="47.1970779" version="2" timestamp="2017-07-13T16:00:37Z" changeset="0"/>
+	<node id="697447196" lat="56.1244458" lon="47.198956" version="3" timestamp="2017-07-13T16:00:37Z" changeset="0"/>
+	<node id="697447197" lat="56.123156" lon="47.2014013" version="3" timestamp="2017-07-13T16:00:37Z" changeset="0"/>
+	<node id="697447198" lat="56.1225937" lon="47.2005161" version="3" timestamp="2017-07-13T16:00:37Z" changeset="0"/>
+	<node id="697447199" lat="56.1227084" lon="47.2002615" version="3" timestamp="2017-07-13T16:00:37Z" changeset="0"/>
+	<node id="697447200" lat="56.1221796" lon="47.1993948" version="3" timestamp="2017-07-13T16:00:37Z" changeset="0"/>
+	<node id="698615205" lat="56.1265212" lon="47.2048683" version="3" timestamp="2016-04-04T20:59:02Z" changeset="0"/>
+	<node id="698615206" lat="56.125381" lon="47.2063179" version="2" timestamp="2012-01-18T19:11:32Z" changeset="0"/>
+	<node id="699527390" lat="56.1115049" lon="47.1805694" version="3" timestamp="2016-03-19T21:18:42Z" changeset="0"/>
+	<node id="699527392" lat="56.1107667" lon="47.1793152" version="3" timestamp="2016-03-19T21:18:42Z" changeset="0"/>
+	<node id="699527393" lat="56.1101096" lon="47.1805423" version="2" timestamp="2010-04-17T15:55:21Z" changeset="0"/>
+	<node id="699527394" lat="56.1108792" lon="47.1818019" version="2" timestamp="2010-04-17T15:55:21Z" changeset="0"/>
+	<node id="699772218" lat="56.1106338" lon="47.1756287" version="4" timestamp="2016-03-19T21:18:42Z" changeset="0"/>
+	<node id="699772242" lat="56.1101436" lon="47.1707977" version="3" timestamp="2016-03-19T21:18:42Z" changeset="0"/>
+	<node id="699772249" lat="56.108833" lon="47.1708388" version="3" timestamp="2016-03-19T21:18:42Z" changeset="0"/>
+	<node id="699772253" lat="56.1085799" lon="47.1713577" version="4" timestamp="2016-03-19T21:18:42Z" changeset="0"/>
+	<node id="699772259" lat="56.1086204" lon="47.1728496" version="5" timestamp="2016-03-19T21:18:42Z" changeset="0"/>
+	<node id="699772263" lat="56.1101969" lon="47.1727588" version="5" timestamp="2016-03-19T21:18:42Z" changeset="0"/>
+	<node id="700719269" lat="56.1108207" lon="47.1773414" version="2" timestamp="2012-10-09T12:49:17Z" changeset="0"/>
+	<node id="700719271" lat="56.1100247" lon="47.1773774" version="2" timestamp="2012-10-09T12:49:18Z" changeset="0"/>
+	<node id="700719273" lat="56.109978" lon="47.1756501" version="3" timestamp="2016-03-19T21:18:42Z" changeset="0"/>
+	<node id="703205648" lat="56.1099243" lon="47.1707954" version="4" timestamp="2016-03-19T21:18:44Z" changeset="0"/>
+	<node id="703205649" lat="56.1091992" lon="47.1708068" version="4" timestamp="2016-03-19T21:18:44Z" changeset="0"/>
+	<node id="707186390" lat="56.1060032" lon="47.2889343" version="2" timestamp="2011-11-14T14:46:50Z" changeset="0"/>
+	<node id="707186401" lat="56.1061783" lon="47.290026" version="2" timestamp="2011-11-14T14:46:50Z" changeset="0"/>
+	<node id="707186415" lat="56.1055039" lon="47.2903782" version="2" timestamp="2011-11-14T14:46:50Z" changeset="0"/>
+	<node id="707186427" lat="56.1054027" lon="47.2897473" version="2" timestamp="2011-11-14T14:46:50Z" changeset="0"/>
+	<node id="707186436" lat="56.1056338" lon="47.2896238" version="2" timestamp="2011-11-14T14:46:50Z" changeset="0"/>
+	<node id="707186447" lat="56.1055599" lon="47.2891629" version="2" timestamp="2011-11-14T14:46:50Z" changeset="0"/>
+	<node id="707186790" lat="56.1077748" lon="47.2998327" version="3" timestamp="2020-12-02T15:43:05Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="707186794" lat="56.1068401" lon="47.3004413" version="3" timestamp="2020-12-16T07:16:36Z" changeset="0"/>
+	<node id="707186803" lat="56.1063256" lon="47.2983912" version="3" timestamp="2020-12-16T07:16:36Z" changeset="0"/>
+	<node id="707186810" lat="56.1065414" lon="47.2979868" version="1" timestamp="2010-04-26T11:29:08Z" changeset="0"/>
+	<node id="707186816" lat="56.1064365" lon="47.2977468" version="2" timestamp="2020-12-16T07:16:36Z" changeset="0"/>
+	<node id="707186822" lat="56.1067167" lon="47.2970796" version="2" timestamp="2020-12-16T07:16:36Z" changeset="0"/>
+	<node id="707186827" lat="56.1077813" lon="47.2985946" version="2" timestamp="2013-09-03T10:55:42Z" changeset="0"/>
+	<node id="707187182" lat="56.0894233" lon="47.2810921" version="3" timestamp="2011-11-22T11:17:38Z" changeset="0"/>
+	<node id="707187185" lat="56.0888099" lon="47.2813892" version="2" timestamp="2010-05-25T09:45:37Z" changeset="0"/>
+	<node id="707187187" lat="56.0880613" lon="47.279556" version="3" timestamp="2011-11-22T11:17:38Z" changeset="0"/>
+	<node id="707187190" lat="56.0890494" lon="47.2783086" version="3" timestamp="2011-11-22T11:17:38Z" changeset="0"/>
+	<node id="707187266" lat="56.0930792" lon="47.2766791" version="2" timestamp="2011-11-23T07:15:55Z" changeset="0"/>
+	<node id="707187272" lat="56.0934554" lon="47.2793261" version="2" timestamp="2011-11-23T07:15:55Z" changeset="0"/>
+	<node id="707187298" lat="56.0930732" lon="47.2803976" version="2" timestamp="2011-11-23T07:15:56Z" changeset="0"/>
+	<node id="707187302" lat="56.0926131" lon="47.28058" version="2" timestamp="2011-11-23T07:15:56Z" changeset="0"/>
+	<node id="707187318" lat="56.0921266" lon="47.2771037" version="2" timestamp="2011-11-23T07:15:56Z" changeset="0"/>
+	<node id="707187432" lat="56.0896048" lon="47.2875218" version="3" timestamp="2011-11-22T11:17:38Z" changeset="0"/>
+	<node id="707187442" lat="56.0905292" lon="47.2873726" version="2" timestamp="2011-11-17T08:53:13Z" changeset="0"/>
+	<node id="707187455" lat="56.0904227" lon="47.2865772" version="3" timestamp="2011-11-22T11:17:38Z" changeset="0"/>
+	<node id="707187462" lat="56.0907592" lon="47.2861663" version="3" timestamp="2011-11-22T11:17:38Z" changeset="0"/>
+	<node id="707187477" lat="56.090525" lon="47.284369" version="3" timestamp="2011-11-22T11:17:38Z" changeset="0"/>
+	<node id="707187486" lat="56.0900802" lon="47.2845646" version="2" timestamp="2011-11-22T11:17:38Z" changeset="0"/>
+	<node id="707187489" lat="56.0893254" lon="47.2851011" version="2" timestamp="2011-11-22T11:17:38Z" changeset="0"/>
+	<node id="707187510" lat="56.0892281" lon="47.2841317" version="2" timestamp="2011-11-22T11:17:38Z" changeset="0"/>
+	<node id="707187520" lat="56.0900797" lon="47.2837624" version="2" timestamp="2011-11-22T11:17:39Z" changeset="0"/>
+	<node id="707187527" lat="56.0900181" lon="47.2832991" version="2" timestamp="2011-11-22T11:17:39Z" changeset="0"/>
+	<node id="707187534" lat="56.0903262" lon="47.2827654" version="3" timestamp="2014-09-28T12:59:53Z" changeset="0"/>
+	<node id="707187541" lat="56.0901541" lon="47.2814332" version="3" timestamp="2014-09-28T12:59:53Z" changeset="0"/>
+	<node id="707187549" lat="56.0893857" lon="47.2814504" version="2" timestamp="2011-11-22T11:17:39Z" changeset="0"/>
+	<node id="707187577" lat="56.088959" lon="47.2819583" version="2" timestamp="2011-11-22T11:17:39Z" changeset="0"/>
+	<node id="707187776" lat="56.0980594" lon="47.2770426" version="3" timestamp="2012-10-18T13:07:27Z" changeset="0"/>
+	<node id="707187788" lat="56.0970322" lon="47.2774954" version="3" timestamp="2012-10-18T13:07:27Z" changeset="0"/>
+	<node id="707187797" lat="56.0972629" lon="47.2791775" version="3" timestamp="2012-10-18T13:07:27Z" changeset="0"/>
+	<node id="707187800" lat="56.0982901" lon="47.2787246" version="3" timestamp="2012-10-18T13:07:28Z" changeset="0"/>
+	<node id="707187814" lat="56.099245" lon="47.2733395" version="2" timestamp="2011-11-10T10:16:04Z" changeset="0"/>
+	<node id="707187825" lat="56.0980296" lon="47.2738249" version="2" timestamp="2011-11-10T10:16:04Z" changeset="0"/>
+	<node id="707187831" lat="56.0976752" lon="47.2710511" version="3" timestamp="2011-11-22T11:17:39Z" changeset="0"/>
+	<node id="707187836" lat="56.0988907" lon="47.2705657" version="3" timestamp="2011-11-22T11:17:39Z" changeset="0"/>
+	<node id="707188058" lat="56.1011276" lon="47.2761264" version="3" timestamp="2012-10-18T13:07:28Z" changeset="0"/>
+	<node id="707188069" lat="56.1014338" lon="47.2782192" version="3" timestamp="2012-10-18T13:07:28Z" changeset="0"/>
+	<node id="707188077" lat="56.100559" lon="47.2786306" version="3" timestamp="2012-10-18T13:07:28Z" changeset="0"/>
+	<node id="707188084" lat="56.1002528" lon="47.2765378" version="3" timestamp="2012-10-18T13:07:28Z" changeset="0"/>
+	<node id="707188367" lat="56.1020474" lon="47.2947698" version="4" timestamp="2017-02-17T09:56:38Z" changeset="0"/>
+	<node id="707188374" lat="56.1021156" lon="47.2951377" version="3" timestamp="2014-08-27T17:01:38Z" changeset="0"/>
+	<node id="707188379" lat="56.1021243" lon="47.2955611" version="3" timestamp="2014-08-27T17:01:37Z" changeset="0"/>
+	<node id="707188383" lat="56.1024732" lon="47.2973266" version="3" timestamp="2014-08-27T17:01:37Z" changeset="0"/>
+	<node id="707188387" lat="56.101248" lon="47.298065" version="2" timestamp="2011-11-21T19:03:16Z" changeset="0"/>
+	<node id="707188390" lat="56.1009307" lon="47.2962092" version="3" timestamp="2017-02-17T09:56:38Z" changeset="0"/>
+	<node id="707188393" lat="56.1013705" lon="47.2959762" version="3" timestamp="2017-02-17T09:56:38Z" changeset="0"/>
+	<node id="707188400" lat="56.1012093" lon="47.2951175" version="4" timestamp="2017-02-17T09:56:38Z" changeset="0"/>
+	<node id="707188567" lat="56.1052252" lon="47.2900045" version="1" timestamp="2010-04-26T11:30:05Z" changeset="0"/>
+	<node id="707188570" lat="56.1039747" lon="47.2906161" version="1" timestamp="2010-04-26T11:30:05Z" changeset="0"/>
+	<node id="707188573" lat="56.10422" lon="47.2920859" version="1" timestamp="2010-04-26T11:30:06Z" changeset="0"/>
+	<node id="707188578" lat="56.1044174" lon="47.2924292" version="1" timestamp="2010-04-26T11:30:06Z" changeset="0"/>
+	<node id="707188580" lat="56.1049739" lon="47.292161" version="1" timestamp="2010-04-26T11:30:06Z" changeset="0"/>
+	<node id="707188582" lat="56.1053987" lon="47.2911418" version="1" timestamp="2010-04-26T11:30:06Z" changeset="0"/>
+	<node id="707188595" lat="56.1047451" lon="47.2871733" version="4" timestamp="2011-11-22T11:17:41Z" changeset="0"/>
+	<node id="707188596" lat="56.1056512" lon="47.2867046" version="4" timestamp="2011-11-22T11:17:41Z" changeset="0"/>
+	<node id="707188609" lat="56.1052194" lon="47.284021" version="4" timestamp="2011-11-22T11:17:41Z" changeset="0"/>
+	<node id="707188613" lat="56.1045742" lon="47.2843548" version="3" timestamp="2011-11-22T11:17:41Z" changeset="0"/>
+	<node id="707188620" lat="56.1043133" lon="47.2844897" version="3" timestamp="2011-11-22T11:17:41Z" changeset="0"/>
+	<node id="707188628" lat="56.1049371" lon="47.2821586" version="2" timestamp="2011-11-14T14:46:51Z" changeset="0"/>
+	<node id="707188632" lat="56.1051914" lon="47.2837679" version="2" timestamp="2011-11-14T14:46:51Z" changeset="0"/>
+	<node id="707188637" lat="56.1044414" lon="47.2841788" version="1" timestamp="2010-04-26T11:30:09Z" changeset="0"/>
+	<node id="707188640" lat="56.1041661" lon="47.2825802" version="1" timestamp="2010-04-26T11:30:09Z" changeset="0"/>
+	<node id="707188741" lat="56.1044117" lon="47.3050499" version="5" timestamp="2020-12-02T15:43:05Z" changeset="0"/>
+	<node id="707188749" lat="56.1032992" lon="47.3065145" version="5" timestamp="2020-12-02T15:43:05Z" changeset="0"/>
+	<node id="707188758" lat="56.1046432" lon="47.3071765" version="5" timestamp="2020-12-02T15:43:05Z" changeset="0"/>
+	<node id="707188775" lat="56.104759" lon="47.3066932" version="5" timestamp="2020-12-02T15:43:05Z" changeset="0"/>
+	<node id="707188841" lat="56.1013281" lon="47.3070408" version="5" timestamp="2019-05-21T17:11:57Z" changeset="0"/>
+	<node id="707188842" lat="56.1002505" lon="47.3078506" version="5" timestamp="2019-05-21T17:11:57Z" changeset="0"/>
+	<node id="707188843" lat="56.1008056" lon="47.310096" version="5" timestamp="2019-05-21T17:11:57Z" changeset="0"/>
+	<node id="707188844" lat="56.101606" lon="47.3094598" version="5" timestamp="2019-05-21T17:11:57Z" changeset="0"/>
+	<node id="707188845" lat="56.1014826" lon="47.3088688" version="5" timestamp="2019-05-21T17:11:57Z" changeset="0"/>
+	<node id="707188846" lat="56.1017179" lon="47.3087089" version="5" timestamp="2019-05-21T17:11:57Z" changeset="0"/>
+	<node id="707188860" lat="56.1079716" lon="47.3029326" version="4" timestamp="2020-12-02T15:43:05Z" changeset="0"/>
+	<node id="707188864" lat="56.1082378" lon="47.3045807" version="3" timestamp="2011-11-22T11:17:41Z" changeset="0"/>
+	<node id="707188875" lat="56.1070805" lon="47.3054764" version="4" timestamp="2020-12-02T15:43:05Z" changeset="0"/>
+	<node id="707188886" lat="56.1067575" lon="47.3032705" version="4" timestamp="2020-12-02T15:43:05Z" changeset="0"/>
+	<node id="707188890" lat="56.107193" lon="47.3029172" version="4" timestamp="2020-12-02T15:43:05Z" changeset="0"/>
+	<node id="707188895" lat="56.1073913" lon="47.302946" version="4" timestamp="2020-12-02T15:43:05Z" changeset="0"/>
+	<node id="707189775" lat="56.1055499" lon="47.3107269" version="3" timestamp="2011-11-21T09:47:34Z" changeset="0"/>
+	<node id="707189781" lat="56.1047214" lon="47.3113105" version="4" timestamp="2011-11-21T09:49:22Z" changeset="0"/>
+	<node id="707189791" lat="56.1052443" lon="47.3134709" version="5" timestamp="2011-11-21T09:49:22Z" changeset="0"/>
+	<node id="707189804" lat="56.1060418" lon="47.312886" version="4" timestamp="2011-11-21T09:47:34Z" changeset="0"/>
+	<node id="707189896" lat="56.1097212" lon="47.322728" version="5" timestamp="2012-07-29T10:22:27Z" changeset="0"/>
+	<node id="707189901" lat="56.1086823" lon="47.3228061" version="6" timestamp="2012-07-29T10:22:28Z" changeset="0"/>
+	<node id="707189906" lat="56.1087078" lon="47.3235825" version="5" timestamp="2012-07-29T10:22:28Z" changeset="0"/>
+	<node id="707189910" lat="56.1077815" lon="47.3243532" version="3" timestamp="2012-07-29T10:22:28Z" changeset="0"/>
+	<node id="707189914" lat="56.1080431" lon="47.325364" version="4" timestamp="2012-07-29T10:22:28Z" changeset="0"/>
+	<node id="707189921" lat="56.1089204" lon="47.3251657" version="5" timestamp="2012-07-29T10:22:28Z" changeset="0"/>
+	<node id="707189932" lat="56.1097767" lon="47.3251013" version="4" timestamp="2012-07-29T10:22:28Z" changeset="0"/>
+	<node id="707190055" lat="56.1088784" lon="47.3127596" version="3" timestamp="2011-11-21T09:47:35Z" changeset="0"/>
+	<node id="707190061" lat="56.1077733" lon="47.3136087" version="2" timestamp="2011-11-21T09:47:35Z" changeset="0"/>
+	<node id="707190066" lat="56.1084781" lon="47.3165664" version="3" timestamp="2011-11-21T09:47:36Z" changeset="0"/>
+	<node id="707190072" lat="56.1088192" lon="47.3163077" version="4" timestamp="2011-11-21T09:47:36Z" changeset="0"/>
+	<node id="707190077" lat="56.1087893" lon="47.3156986" version="3" timestamp="2011-11-21T09:47:36Z" changeset="0"/>
+	<node id="707190086" lat="56.1093913" lon="47.3156152" version="4" timestamp="2012-07-29T10:22:28Z" changeset="0"/>
+	<node id="707190092" lat="56.1091218" lon="47.3150901" version="3" timestamp="2011-11-21T09:47:36Z" changeset="0"/>
+	<node id="707190096" lat="56.1090643" lon="47.3135095" version="3" timestamp="2011-11-21T09:47:36Z" changeset="0"/>
+	<node id="708997451" lat="56.1448805" lon="47.2661058" version="5" timestamp="2021-07-14T08:38:56Z" changeset="0"/>
+	<node id="708997452" lat="56.144896" lon="47.2674933" version="4" timestamp="2021-07-14T08:38:56Z" changeset="0"/>
+	<node id="708997453" lat="56.1440721" lon="47.2674792" version="4" timestamp="2021-07-14T08:38:56Z" changeset="0"/>
+	<node id="708997454" lat="56.1442932" lon="47.2660941" version="5" timestamp="2021-07-14T08:38:56Z" changeset="0"/>
+	<node id="709149394" lat="56.1242427" lon="47.2799796" version="3" timestamp="2016-04-01T20:59:42Z" changeset="0"/>
+	<node id="709149396" lat="56.1232672" lon="47.2789469" version="4" timestamp="2021-04-07T15:37:45Z" changeset="0"/>
+	<node id="709149397" lat="56.1239609" lon="47.276482" version="4" timestamp="2021-04-07T15:37:45Z" changeset="0"/>
+	<node id="709149398" lat="56.1247982" lon="47.2773805" version="4" timestamp="2021-04-07T15:37:45Z" changeset="0"/>
+	<node id="709149408" lat="56.1249384" lon="47.2726055" version="3" timestamp="2012-11-22T17:33:55Z" changeset="0"/>
+	<node id="709149430" lat="56.1254965" lon="47.2744691" version="2" timestamp="2012-02-25T09:26:47Z" changeset="0"/>
+	<node id="709149443" lat="56.1247492" lon="47.2736992" version="2" timestamp="2012-02-25T09:26:48Z" changeset="0"/>
+	<node id="709149457" lat="56.1241591" lon="47.2726198" version="2" timestamp="2016-01-09T01:19:42Z" changeset="0"/>
+	<node id="709149460" lat="56.124165" lon="47.2718527" version="1" timestamp="2010-04-27T21:32:02Z" changeset="0"/>
+	<node id="709149463" lat="56.1251893" lon="47.2719114" version="2" timestamp="2016-01-09T01:19:42Z" changeset="0"/>
+	<node id="709149468" lat="56.1260181" lon="47.2727595" version="3" timestamp="2016-01-09T01:19:42Z" changeset="0"/>
+	<node id="709149579" lat="56.1282202" lon="47.2840157" version="2" timestamp="2020-09-17T08:56:40Z" changeset="0"/>
+	<node id="709149584" lat="56.1290087" lon="47.2848346" version="1" timestamp="2010-04-27T21:32:05Z" changeset="0"/>
+	<node id="709149588" lat="56.1291163" lon="47.2851564" version="1" timestamp="2010-04-27T21:32:05Z" changeset="0"/>
+	<node id="709149593" lat="56.1295409" lon="47.2856499" version="1" timestamp="2010-04-27T21:32:05Z" changeset="0"/>
+	<node id="709149597" lat="56.1299714" lon="47.2842767" version="1" timestamp="2010-04-27T21:32:05Z" changeset="0"/>
+	<node id="709149600" lat="56.1296724" lon="47.2839762" version="1" timestamp="2010-04-27T21:32:05Z" changeset="0"/>
+	<node id="709149605" lat="56.1294631" lon="47.2839977" version="1" timestamp="2010-04-27T21:32:05Z" changeset="0"/>
+	<node id="709149609" lat="56.1285362" lon="47.2830183" version="2" timestamp="2020-09-17T08:56:40Z" changeset="0"/>
+	<node id="709149951" lat="56.1299709" lon="47.2749355" version="3" timestamp="2016-01-09T01:19:42Z" changeset="0"/>
+	<node id="709149955" lat="56.1308727" lon="47.2758669" version="3" timestamp="2016-01-09T01:19:42Z" changeset="0"/>
+	<node id="709149960" lat="56.1302396" lon="47.2782632" version="2" timestamp="2016-01-09T01:19:42Z" changeset="0"/>
+	<node id="709149970" lat="56.1294884" lon="47.2774851" version="3" timestamp="2016-01-09T01:19:42Z" changeset="0"/>
+	<node id="709149976" lat="56.1299149" lon="47.276017" version="3" timestamp="2016-01-09T01:19:42Z" changeset="0"/>
+	<node id="709149982" lat="56.129721" lon="47.2757865" version="3" timestamp="2016-01-09T01:19:42Z" changeset="0"/>
+	<node id="709150157" lat="56.1314632" lon="47.2794061" version="4" timestamp="2016-01-09T01:19:43Z" changeset="0"/>
+	<node id="709150161" lat="56.1311121" lon="47.280506" version="4" timestamp="2016-01-09T01:19:43Z" changeset="0"/>
+	<node id="709150165" lat="56.1314946" lon="47.2809111" version="3" timestamp="2016-01-09T01:19:43Z" changeset="0"/>
+	<node id="709150170" lat="56.1314128" lon="47.2812152" version="3" timestamp="2016-01-09T01:19:43Z" changeset="0"/>
+	<node id="709150182" lat="56.1320663" lon="47.2818659" version="2" timestamp="2016-01-09T01:19:43Z" changeset="0"/>
+	<node id="709150185" lat="56.1325718" lon="47.2802148" version="2" timestamp="2016-01-09T01:19:43Z" changeset="0"/>
+	<node id="709150188" lat="56.1322028" lon="47.2814178" version="3" timestamp="2016-01-09T01:19:43Z" changeset="0"/>
+	<node id="709150192" lat="56.131969" lon="47.279547" version="2" timestamp="2016-01-09T01:19:43Z" changeset="0"/>
+	<node id="709150195" lat="56.1318695" lon="47.2798183" version="2" timestamp="2016-01-09T01:19:43Z" changeset="0"/>
+	<node id="710211206" lat="56.1378776" lon="47.2432982" version="5" timestamp="2017-09-26T14:35:58Z" changeset="0"/>
+	<node id="710211207" lat="56.1359267" lon="47.2422836" version="3" timestamp="2017-09-26T14:35:58Z" changeset="0"/>
+	<node id="710211208" lat="56.1357987" lon="47.2437728" version="4" timestamp="2011-12-08T06:34:21Z" changeset="0"/>
+	<node id="710211215" lat="56.1377297" lon="47.2443504" version="7" timestamp="2017-09-26T14:35:58Z" changeset="0"/>
+	<node id="710211260" lat="56.129106" lon="47.254517" version="2" timestamp="2013-03-27T07:40:58Z" changeset="0"/>
+	<node id="710211263" lat="56.1288321" lon="47.2534913" version="2" timestamp="2013-03-27T07:40:58Z" changeset="0"/>
+	<node id="710211264" lat="56.1279352" lon="47.2542236" version="2" timestamp="2013-03-27T07:40:58Z" changeset="0"/>
+	<node id="710211265" lat="56.1282824" lon="47.2559783" version="2" timestamp="2013-03-27T07:40:58Z" changeset="0"/>
+	<node id="710211266" lat="56.1287841" lon="47.2555008" version="2" timestamp="2013-03-27T07:40:59Z" changeset="0"/>
+	<node id="718883190" lat="56.1077998" lon="47.1857774" version="3" timestamp="2021-06-28T12:04:43Z" changeset="0"/>
+	<node id="718883195" lat="56.1098002" lon="47.1853072" version="6" timestamp="2021-06-28T12:04:43Z" changeset="0"/>
+	<node id="718883197" lat="56.1098879" lon="47.1858121" version="5" timestamp="2021-06-28T12:04:43Z" changeset="0"/>
+	<node id="718883200" lat="56.1099826" lon="47.1857793" version="4" timestamp="2021-06-28T12:04:43Z" changeset="0"/>
+	<node id="718883203" lat="56.1101022" lon="47.1871493" version="3" timestamp="2016-03-30T09:08:53Z" changeset="0"/>
+	<node id="718883206" lat="56.1092484" lon="47.1873474" version="3" timestamp="2016-03-30T09:08:53Z" changeset="0"/>
+	<node id="718883210" lat="56.1089877" lon="47.1870139" version="4" timestamp="2016-03-30T09:08:53Z" changeset="0"/>
+	<node id="725047061" lat="56.1119217" lon="47.1929231" version="4" timestamp="2018-02-01T13:23:19Z" changeset="0"/>
+	<node id="725047067" lat="56.1119688" lon="47.1936312" version="4" timestamp="2018-02-01T13:23:19Z" changeset="0"/>
+	<node id="725047071" lat="56.1122634" lon="47.1941381" version="4" timestamp="2018-02-01T13:23:19Z" changeset="0"/>
+	<node id="725047073" lat="56.1138501" lon="47.1935896" version="4" timestamp="2018-02-01T13:23:19Z" changeset="0"/>
+	<node id="725047074" lat="56.1138292" lon="47.1932691" version="4" timestamp="2018-02-01T13:23:19Z" changeset="0"/>
+	<node id="725047076" lat="56.1139525" lon="47.1929996" version="4" timestamp="2018-02-01T13:23:19Z" changeset="0"/>
+	<node id="725047079" lat="56.1130523" lon="47.1915498" version="4" timestamp="2018-02-01T13:23:19Z" changeset="0"/>
+	<node id="725047082" lat="56.1128407" lon="47.1918274" version="4" timestamp="2018-02-01T13:23:19Z" changeset="0"/>
+	<node id="729653874" lat="56.1297755" lon="47.2459115" version="5" timestamp="2018-04-06T22:50:15Z" changeset="0"/>
+	<node id="729653876" lat="56.1288312" lon="47.2467384" version="5" timestamp="2018-04-06T22:50:15Z" changeset="0"/>
+	<node id="729653877" lat="56.129788" lon="47.2459012" version="5" timestamp="2018-04-06T22:50:15Z" changeset="0"/>
+	<node id="731926585" lat="56.1261392" lon="47.252888" version="4" timestamp="2013-04-25T19:28:18Z" changeset="0"/>
+	<node id="731926588" lat="56.1264784" lon="47.2542108" version="3" timestamp="2011-12-20T13:57:07Z" changeset="0"/>
+	<node id="731926591" lat="56.127504" lon="47.2533695" version="6" timestamp="2013-04-25T19:28:18Z" changeset="0"/>
+	<node id="731926594" lat="56.1271698" lon="47.2520305" version="4" timestamp="2013-04-25T19:28:18Z" changeset="0"/>
+	<node id="731953037" lat="56.1284623" lon="47.2587365" version="4" timestamp="2016-04-19T07:03:44Z" changeset="0"/>
+	<node id="731953039" lat="56.1290602" lon="47.261196" version="4" timestamp="2016-04-19T07:03:44Z" changeset="0"/>
+	<node id="731953040" lat="56.1298914" lon="47.2604853" version="4" timestamp="2016-04-19T07:03:44Z" changeset="0"/>
+	<node id="731953041" lat="56.1293443" lon="47.2580927" version="4" timestamp="2016-04-19T07:03:44Z" changeset="0"/>
+	<node id="731953046" lat="56.1297023" lon="47.2596285" version="2" timestamp="2016-04-19T07:03:44Z" changeset="0"/>
+	<node id="732060866" lat="56.1186563" lon="47.2545017" version="3" timestamp="2016-01-20T13:38:53Z" changeset="0"/>
+	<node id="732060874" lat="56.118029" lon="47.2561761" version="3" timestamp="2016-01-20T13:38:53Z" changeset="0"/>
+	<node id="732060884" lat="56.1177787" lon="47.2551322" version="2" timestamp="2016-01-20T13:38:53Z" changeset="0"/>
+	<node id="732060889" lat="56.1181578" lon="47.2544564" version="3" timestamp="2016-01-20T13:38:53Z" changeset="0"/>
+	<node id="732060894" lat="56.1191709" lon="47.2531845" version="3" timestamp="2016-01-20T13:38:53Z" changeset="0"/>
+	<node id="732221623" lat="56.1375497" lon="47.1564725" version="2" timestamp="2013-09-03T06:16:35Z" changeset="0"/>
+	<node id="732221624" lat="56.1371276" lon="47.1588217" version="3" timestamp="2015-11-09T10:15:54Z" changeset="0"/>
+	<node id="732221625" lat="56.1369221" lon="47.1589708" version="3" timestamp="2015-11-09T10:15:54Z" changeset="0"/>
+	<node id="732221626" lat="56.1359648" lon="47.1584314" version="3" timestamp="2015-11-09T10:15:54Z" changeset="0"/>
+	<node id="732221627" lat="56.1357637" lon="47.1575861" version="3" timestamp="2015-11-09T10:15:54Z" changeset="0"/>
+	<node id="738430140" lat="56.1226289" lon="47.2614546" version="5" timestamp="2016-01-17T21:04:33Z" changeset="0"/>
+	<node id="738430145" lat="56.1230722" lon="47.2631459" version="5" timestamp="2016-01-17T21:04:33Z" changeset="0"/>
+	<node id="738430147" lat="56.1240246" lon="47.2623257" version="5" timestamp="2016-01-17T21:04:33Z" changeset="0"/>
+	<node id="740732879" lat="56.1343549" lon="47.2281521" version="3" timestamp="2017-09-26T10:24:05Z" changeset="0"/>
+	<node id="740732881" lat="56.1332475" lon="47.2273804" version="3" timestamp="2017-09-26T10:24:05Z" changeset="0"/>
+	<node id="740732883" lat="56.1328912" lon="47.2291295" version="3" timestamp="2017-09-26T10:24:05Z" changeset="0"/>
+	<node id="740732886" lat="56.1332178" lon="47.2293753" version="2" timestamp="2017-09-26T10:24:05Z" changeset="0"/>
+	<node id="740732889" lat="56.1333252" lon="47.2288983" version="3" timestamp="2017-09-26T10:24:05Z" changeset="0"/>
+	<node id="740732892" lat="56.1340892" lon="47.2293566" version="2" timestamp="2017-09-26T10:24:05Z" changeset="0"/>
+	<node id="746958440" lat="56.1163493" lon="47.2620266" version="1" timestamp="2010-05-24T08:08:54Z" changeset="0"/>
+	<node id="746958442" lat="56.1172824" lon="47.261222" version="1" timestamp="2010-05-24T08:08:54Z" changeset="0"/>
+	<node id="746958444" lat="56.1168756" lon="47.2596985" version="1" timestamp="2010-05-24T08:08:54Z" changeset="0"/>
+	<node id="746958445" lat="56.1159365" lon="47.2605031" version="1" timestamp="2010-05-24T08:08:55Z" changeset="0"/>
+	<node id="746979972" lat="56.1094557" lon="47.2649238" version="5" timestamp="2018-01-26T12:36:13Z" changeset="0"/>
+	<node id="746979973" lat="56.1109443" lon="47.266295" version="5" timestamp="2018-01-26T12:36:14Z" changeset="0"/>
+	<node id="746979974" lat="56.1114752" lon="47.2646829" version="5" timestamp="2018-01-26T12:36:14Z" changeset="0"/>
+	<node id="746979978" lat="56.1098072" lon="47.2632875" version="5" timestamp="2018-01-26T12:36:14Z" changeset="0"/>
+	<node id="747016333" lat="56.110689" lon="47.2716866" version="4" timestamp="2015-08-13T12:02:52Z" changeset="0"/>
+	<node id="747016334" lat="56.1103193" lon="47.272881" version="4" timestamp="2015-08-13T12:02:52Z" changeset="0"/>
+	<node id="747016335" lat="56.1086293" lon="47.2711984" version="3" timestamp="2015-08-13T12:02:52Z" changeset="0"/>
+	<node id="747016336" lat="56.1089991" lon="47.2700039" version="4" timestamp="2015-08-13T12:02:52Z" changeset="0"/>
+	<node id="747016337" lat="56.1069727" lon="47.2680729" version="3" timestamp="2016-04-24T08:39:49Z" changeset="0"/>
+	<node id="747016338" lat="56.1065779" lon="47.2693496" version="3" timestamp="2016-04-24T08:39:49Z" changeset="0"/>
+	<node id="747016339" lat="56.1084927" lon="47.2713472" version="4" timestamp="2016-04-24T08:39:49Z" changeset="0"/>
+	<node id="747016340" lat="56.1089131" lon="47.2699756" version="4" timestamp="2016-04-24T08:39:49Z" changeset="0"/>
+	<node id="747737354" lat="56.0895688" lon="47.2813746" version="4" timestamp="2021-03-08T19:20:14Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="747753334" lat="56.0822918" lon="47.283578" version="3" timestamp="2017-11-27T10:55:40Z" changeset="0"/>
+	<node id="747753335" lat="56.0826009" lon="47.2848536" version="4" timestamp="2017-11-27T10:55:40Z" changeset="0"/>
+	<node id="747753336" lat="56.0840479" lon="47.2836441" version="4" timestamp="2013-06-15T11:06:35Z" changeset="0"/>
+	<node id="747753337" lat="56.0837403" lon="47.2824335" version="4" timestamp="2013-06-15T11:06:35Z" changeset="0"/>
+	<node id="747753341" lat="56.0777752" lon="47.2797616" version="3" timestamp="2017-11-27T10:55:40Z" changeset="0"/>
+	<node id="747760189" lat="56.0813826" lon="47.2731952" version="2" timestamp="2013-04-03T15:00:41Z" changeset="0"/>
+	<node id="747760190" lat="56.0817067" lon="47.2746613" version="2" timestamp="2013-04-03T15:00:41Z" changeset="0"/>
+	<node id="747764808" lat="56.0777411" lon="47.2769826" version="3" timestamp="2021-02-26T11:12:01Z" changeset="0"/>
+	<node id="747764814" lat="56.0779341" lon="47.2773634" version="3" timestamp="2021-02-26T11:12:01Z" changeset="0"/>
+	<node id="747764819" lat="56.0782529" lon="47.2776423" version="3" timestamp="2021-02-26T11:12:01Z" changeset="0"/>
+	<node id="747764837" lat="56.0765614" lon="47.2785877" version="3" timestamp="2017-11-27T16:00:02Z" changeset="0"/>
+	<node id="747764858" lat="56.0767112" lon="47.2806008" version="2" timestamp="2017-11-27T16:00:02Z" changeset="0"/>
+	<node id="747764867" lat="56.0769753" lon="47.2812955" version="3" timestamp="2017-11-27T16:00:02Z" changeset="0"/>
+	<node id="747764877" lat="56.0773368" lon="47.2810113" version="3" timestamp="2017-11-27T16:00:02Z" changeset="0"/>
+	<node id="747764896" lat="56.0775944" lon="47.2817461" version="3" timestamp="2017-11-27T16:00:02Z" changeset="0"/>
+	<node id="747764905" lat="56.077747" lon="47.2832697" version="2" timestamp="2017-11-27T16:00:02Z" changeset="0"/>
+	<node id="747764940" lat="56.0771048" lon="47.283672" version="2" timestamp="2017-11-27T16:00:02Z" changeset="0"/>
+	<node id="747764943" lat="56.076084" lon="47.2814028" version="2" timestamp="2017-11-27T16:00:02Z" changeset="0"/>
+	<node id="768577635" lat="56.1226764" lon="47.2241067" version="4" timestamp="2018-02-28T20:23:00Z" changeset="0"/>
+	<node id="768577636" lat="56.1231449" lon="47.2244285" version="4" timestamp="2018-02-28T20:23:00Z" changeset="0"/>
+	<node id="768577637" lat="56.1229313" lon="47.2254297" version="4" timestamp="2018-02-28T20:23:00Z" changeset="0"/>
+	<node id="768577638" lat="56.122463" lon="47.225108" version="4" timestamp="2018-02-28T20:23:00Z" changeset="0"/>
+	<node id="897576496" lat="56.1403577" lon="47.1686863" version="2" timestamp="2014-09-01T13:44:25Z" changeset="0"/>
+	<node id="897576878" lat="56.1389354" lon="47.1700122" version="2" timestamp="2014-09-01T13:44:25Z" changeset="0"/>
+	<node id="897577062" lat="56.1411284" lon="47.1707373" version="5" timestamp="2018-01-14T11:02:10Z" changeset="0"/>
+	<node id="897577383" lat="56.1395751" lon="47.1720635" version="3" timestamp="2015-12-30T13:23:54Z" changeset="0"/>
+	<node id="958540862" lat="56.1110594" lon="47.2642646" version="4" timestamp="2018-01-26T12:36:14Z" changeset="0"/>
+	<node id="958540967" lat="56.1109334" lon="47.2643285" version="4" timestamp="2018-01-26T12:36:14Z" changeset="0"/>
+	<node id="976475456" lat="56.142075" lon="47.1907518" version="4" timestamp="2016-04-13T20:47:20Z" changeset="0"/>
+	<node id="1078665355" lat="56.1290134" lon="47.2451086" version="3" timestamp="2018-04-06T22:50:15Z" changeset="0"/>
+	<node id="1078665362" lat="56.1287298" lon="47.2453399" version="3" timestamp="2018-04-06T22:50:15Z" changeset="0"/>
+	<node id="1141773260" lat="56.1500062" lon="47.2167386" version="3" timestamp="2018-03-13T09:27:16Z" changeset="0"/>
+	<node id="1141773261" lat="56.1514003" lon="47.2184606" version="3" timestamp="2017-07-30T19:34:12Z" changeset="0"/>
+	<node id="1141773263" lat="56.1503526" lon="47.2162745" version="2" timestamp="2017-07-30T19:57:05Z" changeset="0"/>
+	<node id="1141773270" lat="56.149681" lon="47.2186645" version="2" timestamp="2017-07-30T19:57:05Z" changeset="0"/>
+	<node id="1141773271" lat="56.1495998" lon="47.217832" version="2" timestamp="2017-07-30T19:57:05Z" changeset="0"/>
+	<node id="1141773275" lat="56.1495781" lon="47.217837" version="2" timestamp="2017-07-30T19:57:06Z" changeset="0"/>
+	<node id="1141773276" lat="56.1513019" lon="47.2164038" version="4" timestamp="2017-07-30T19:57:06Z" changeset="0"/>
+	<node id="1141835840" lat="56.1395494" lon="47.2131571" version="3" timestamp="2018-01-20T22:05:36Z" changeset="0"/>
+	<node id="1141835841" lat="56.1406831" lon="47.2113382" version="3" timestamp="2018-01-20T22:05:36Z" changeset="0"/>
+	<node id="1141835842" lat="56.1411809" lon="47.2129376" version="2" timestamp="2018-01-20T22:05:36Z" changeset="0"/>
+	<node id="1141835843" lat="56.1393844" lon="47.2124345" version="3" timestamp="2014-08-19T12:40:14Z" changeset="0"/>
+	<node id="1142062313" lat="56.1410216" lon="47.2113672" version="2" timestamp="2018-01-20T22:05:36Z" changeset="0"/>
+	<node id="1142062316" lat="56.1411156" lon="47.2125441" version="2" timestamp="2018-01-20T22:05:36Z" changeset="0"/>
+	<node id="1142062317" lat="56.1411933" lon="47.2124935" version="2" timestamp="2018-01-20T22:05:36Z" changeset="0"/>
+	<node id="1144716863" lat="56.1529235" lon="47.2414449" version="3" timestamp="2017-06-24T15:10:10Z" changeset="0"/>
+	<node id="1144716866" lat="56.1534318" lon="47.2396429" version="4" timestamp="2017-06-24T15:10:09Z" changeset="0"/>
+	<node id="1144716867" lat="56.1535832" lon="47.2417056" version="3" timestamp="2017-06-24T15:10:09Z" changeset="0"/>
+	<node id="1144716886" lat="56.1537967" lon="47.2405644" version="3" timestamp="2017-06-24T15:10:09Z" changeset="0"/>
+	<node id="1144716897" lat="56.1537656" lon="47.2397013" version="3" timestamp="2017-06-24T15:10:09Z" changeset="0"/>
+	<node id="1144905984" lat="56.1392293" lon="47.1913823" version="3" timestamp="2016-04-13T20:47:10Z" changeset="0"/>
+	<node id="1144906062" lat="56.1398525" lon="47.1927422" version="2" timestamp="2016-04-13T20:47:10Z" changeset="0"/>
+	<node id="1144906086" lat="56.1400174" lon="47.190352" version="3" timestamp="2016-04-13T20:47:10Z" changeset="0"/>
+	<node id="1144906130" lat="56.141925" lon="47.1907042" version="3" timestamp="2016-04-13T20:47:10Z" changeset="0"/>
+	<node id="1144906168" lat="56.1405047" lon="47.1918981" version="2" timestamp="2016-04-13T20:47:10Z" changeset="0"/>
+	<node id="1146773064" lat="56.1461054" lon="47.1799875" version="4" timestamp="2018-10-25T17:42:01Z" changeset="0"/>
+	<node id="1146773065" lat="56.1461154" lon="47.1819161" version="3" timestamp="2017-07-05T15:35:12Z" changeset="0"/>
+	<node id="1146773071" lat="56.1441202" lon="47.1819153" version="3" timestamp="2017-07-05T15:35:12Z" changeset="0"/>
+	<node id="1146773073" lat="56.1441169" lon="47.1798418" version="2" timestamp="2013-04-07T17:35:56Z" changeset="0"/>
+	<node id="1152379022" lat="56.1408384" lon="47.2130541" version="3" timestamp="2018-01-20T22:05:36Z" changeset="0"/>
+	<node id="1152550139" lat="56.1406585" lon="47.212858" version="2" timestamp="2018-01-20T22:05:37Z" changeset="0"/>
+	<node id="1177218429" lat="56.123386" lon="47.2599436" version="2" timestamp="2016-01-17T21:04:23Z" changeset="0"/>
+	<node id="1177218451" lat="56.1236151" lon="47.2608704" version="3" timestamp="2016-01-17T21:04:23Z" changeset="0"/>
+	<node id="1177218486" lat="56.1237153" lon="47.2612678" version="3" timestamp="2016-01-17T21:04:24Z" changeset="0"/>
+	<node id="1177262216" lat="56.1228979" lon="47.2601388" version="3" timestamp="2016-01-12T22:47:06Z" changeset="0"/>
+	<node id="1177262304" lat="56.1228189" lon="47.2601922" version="3" timestamp="2016-01-17T21:04:25Z" changeset="0"/>
+	<node id="1177262309" lat="56.1229997" lon="47.2602411" version="2" timestamp="2016-01-12T22:47:06Z" changeset="0"/>
+	<node id="1185532334" lat="56.1095782" lon="47.2650344" version="3" timestamp="2018-01-26T12:36:15Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="1324716511" lat="56.1036043" lon="47.305631" version="2" timestamp="2011-11-21T15:05:54Z" changeset="0"/>
+	<node id="1341926389" lat="56.122703" lon="47.2006761" version="2" timestamp="2017-07-13T16:00:37Z" changeset="0"/>
+	<node id="1341926504" lat="56.1232327" lon="47.201247" version="2" timestamp="2017-07-13T16:00:37Z" changeset="0"/>
+	<node id="1394738155" lat="56.1013942" lon="47.3073412" version="4" timestamp="2019-05-21T17:11:57Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="1395852523" lat="56.1057671" lon="47.3116495" version="5" timestamp="2015-08-26T11:47:28Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="1396044273" lat="56.1088062" lon="47.324729" version="4" timestamp="2012-07-29T10:22:23Z" changeset="0"/>
+	<node id="1511344995" lat="56.1093656" lon="47.3150602" version="2" timestamp="2012-07-29T10:22:25Z" changeset="0"/>
+	<node id="1511816238" lat="56.104917" lon="47.2870876" version="1" timestamp="2011-11-21T19:03:00Z" changeset="0"/>
+	<node id="1511816393" lat="56.1055041" lon="47.2867864" version="1" timestamp="2011-11-21T19:03:04Z" changeset="0"/>
+	<node id="1512608811" lat="56.0879028" lon="47.2788018" version="1" timestamp="2011-11-22T11:17:09Z" changeset="0"/>
+	<node id="1512608834" lat="56.0884676" lon="47.2803056" version="1" timestamp="2011-11-22T11:17:09Z" changeset="0"/>
+	<node id="1512608901" lat="56.0895232" lon="47.2836171" version="1" timestamp="2011-11-22T11:17:12Z" changeset="0"/>
+	<node id="1512608904" lat="56.08957" lon="47.2839834" version="1" timestamp="2011-11-22T11:17:12Z" changeset="0"/>
+	<node id="1512608913" lat="56.0897913" lon="47.2876967" version="1" timestamp="2011-11-22T11:17:13Z" changeset="0"/>
+	<node id="1512608917" lat="56.0898255" lon="47.2834739" version="1" timestamp="2011-11-22T11:17:13Z" changeset="0"/>
+	<node id="1512608919" lat="56.0899995" lon="47.2811702" version="2" timestamp="2014-09-28T12:59:53Z" changeset="0"/>
+	<node id="1512608922" lat="56.0898807" lon="47.2838487" version="1" timestamp="2011-11-22T11:17:13Z" changeset="0"/>
+	<node id="1524913035" lat="56.0671198" lon="47.2823023" version="5" timestamp="2017-11-29T15:49:50Z" changeset="0"/>
+	<node id="1524913041" lat="56.0678843" lon="47.2837231" version="4" timestamp="2017-11-29T15:49:49Z" changeset="0"/>
+	<node id="1524913043" lat="56.0678727" lon="47.2818404" version="3" timestamp="2017-11-29T15:49:49Z" changeset="0"/>
+	<node id="1524913044" lat="56.067149" lon="47.2819042" version="3" timestamp="2017-11-29T15:49:49Z" changeset="0"/>
+	<node id="1524913046" lat="56.0671877" lon="47.2836697" version="5" timestamp="2017-11-29T15:49:50Z" changeset="0"/>
+	<node id="1535134413" lat="56.1371507" lon="47.2429172" version="2" timestamp="2017-09-26T14:36:00Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="1540701316" lat="56.1203654" lon="47.2277048" version="2" timestamp="2012-08-13T07:43:26Z" changeset="0"/>
+	<node id="1540701318" lat="56.1204021" lon="47.2260163" version="2" timestamp="2012-08-13T07:43:26Z" changeset="0"/>
+	<node id="1540701322" lat="56.1201675" lon="47.2270224" version="2" timestamp="2012-08-13T07:43:26Z" changeset="0"/>
+	<node id="1540701323" lat="56.1212678" lon="47.226666" version="2" timestamp="2012-08-13T07:43:26Z" changeset="0"/>
+	<node id="1540701331" lat="56.1204713" lon="47.2272504" version="2" timestamp="2012-08-13T07:43:26Z" changeset="0"/>
+	<node id="1540701334" lat="56.1209272" lon="47.2281264" version="2" timestamp="2012-08-13T07:43:26Z" changeset="0"/>
+	<node id="1544534470" lat="56.0671802" lon="47.2828824" version="7" timestamp="2017-11-29T15:49:50Z" changeset="0"/>
+	<node id="1544534486" lat="56.0670944" lon="47.2833027" version="6" timestamp="2017-11-29T15:49:50Z" changeset="0"/>
+	<node id="1544534488" lat="56.0670143" lon="47.2830535" version="7" timestamp="2017-11-29T15:49:49Z" changeset="0"/>
+	<node id="1646694411" lat="56.1243586" lon="47.2789013" version="3" timestamp="2021-04-07T15:37:45Z" changeset="0"/>
+	<node id="1646694412" lat="56.1245176" lon="47.2791173" version="2" timestamp="2016-04-01T20:59:38Z" changeset="0"/>
+	<node id="1842519060" lat="56.1097493" lon="47.3239277" version="1" timestamp="2012-07-29T10:22:14Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="1863980288" lat="56.1422284" lon="47.1739991" version="2" timestamp="2014-09-01T13:44:17Z" changeset="0"/>
+	<node id="1863980289" lat="56.1435007" lon="47.1739456" version="2" timestamp="2014-09-01T13:44:17Z" changeset="0"/>
+	<node id="1874625294" lat="56.1453381" lon="47.1911594" version="1" timestamp="2012-08-20T16:06:32Z" changeset="0"/>
+	<node id="1884217146" lat="56.1114191" lon="47.1804235" version="2" timestamp="2016-03-19T21:18:35Z" changeset="0"/>
+	<node id="1884277032" lat="56.1107867" lon="47.175621" version="3" timestamp="2016-03-19T21:18:36Z" changeset="0"/>
+	<node id="1901105153" lat="56.1441858" lon="47.2664946" version="2" timestamp="2014-12-18T12:09:37Z" changeset="0"/>
+	<node id="1927255085" lat="56.0671548" lon="47.2822936" version="2" timestamp="2017-11-29T15:49:50Z" changeset="0"/>
+	<node id="1927255087" lat="56.0678814" lon="47.2828939" version="4" timestamp="2018-01-27T23:09:40Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="1933310891" lat="56.1138832" lon="47.1825961" version="4" timestamp="2018-01-15T14:30:23Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="2026711953" lat="56.1246465" lon="47.2735914" version="2" timestamp="2016-01-09T01:19:31Z" changeset="0"/>
+	<node id="2026711957" lat="56.1247097" lon="47.2736583" version="3" timestamp="2017-12-23T09:13:30Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="2045390219" lat="56.114179" lon="47.2419298" version="3" timestamp="2019-09-08T14:53:03Z" changeset="0"/>
+	<node id="2067551420" lat="56.1253392" lon="47.1928993" version="3" timestamp="2018-01-22T08:26:59Z" changeset="0"/>
+	<node id="2228295545" lat="56.1291801" lon="47.2541967" version="1" timestamp="2013-03-27T07:40:56Z" changeset="0"/>
+	<node id="2228295580" lat="56.1290995" lon="47.2538194" version="1" timestamp="2013-03-27T07:40:56Z" changeset="0"/>
+	<node id="2228295605" lat="56.1280145" lon="47.2548142" version="1" timestamp="2013-03-27T07:40:57Z" changeset="0"/>
+	<node id="2228295641" lat="56.1280229" lon="47.2545883" version="1" timestamp="2013-03-27T07:40:57Z" changeset="0"/>
+	<node id="2231770663" lat="56.1330558" lon="47.2282746" version="2" timestamp="2017-09-26T10:24:08Z" changeset="0"/>
+	<node id="2231770665" lat="56.1329377" lon="47.2288781" version="2" timestamp="2017-09-26T10:24:08Z" changeset="0"/>
+	<node id="2232047375" lat="56.095765" lon="47.2875501" version="4" timestamp="2021-06-22T11:04:25Z" changeset="0"/>
+	<node id="2232076435" lat="56.1295279" lon="47.2451552" version="3" timestamp="2018-04-06T22:50:16Z" changeset="0"/>
+	<node id="2246706789" lat="56.0806525" lon="47.2736603" version="2" timestamp="2021-02-26T11:12:01Z" changeset="0"/>
+	<node id="2246706798" lat="56.0809878" lon="47.2752213" version="2" timestamp="2021-02-26T11:12:01Z" changeset="0"/>
+	<node id="2246801083" lat="56.0930026" lon="47.2767156" version="1" timestamp="2013-04-03T15:41:27Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="2246801256" lat="56.0923258" lon="47.278527" version="1" timestamp="2013-04-03T15:41:29Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="2248436869" lat="56.0678838" lon="47.2834216" version="2" timestamp="2017-11-29T15:49:50Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="2266988913" lat="56.1296178" lon="47.2452276" version="2" timestamp="2018-04-06T22:50:16Z" changeset="0"/>
+	<node id="2266988914" lat="56.1297598" lon="47.2457989" version="2" timestamp="2018-04-06T22:50:16Z" changeset="0"/>
+	<node id="2266988917" lat="56.1285214" lon="47.2455202" version="2" timestamp="2018-04-06T22:50:16Z" changeset="0"/>
+	<node id="2266988918" lat="56.1293747" lon="47.2452223" version="2" timestamp="2018-04-06T22:50:16Z" changeset="0"/>
+	<node id="2266988919" lat="56.1295596" lon="47.2452804" version="2" timestamp="2018-04-06T22:50:16Z" changeset="0"/>
+	<node id="2266988921" lat="56.1288485" lon="47.2452431" version="2" timestamp="2018-04-06T22:50:17Z" changeset="0"/>
+	<node id="2266988924" lat="56.1292223" lon="47.2450597" version="2" timestamp="2018-04-06T22:50:17Z" changeset="0"/>
+	<node id="2266988928" lat="56.1290695" lon="47.2454737" version="2" timestamp="2018-04-06T22:50:17Z" changeset="0"/>
+	<node id="2266988929" lat="56.129263" lon="47.2463639" version="3" timestamp="2018-04-06T22:50:17Z" changeset="0"/>
+	<node id="2266988930" lat="56.1290704" lon="47.2450621" version="2" timestamp="2018-04-06T22:50:17Z" changeset="0"/>
+	<node id="2266988933" lat="56.1290271" lon="47.2453063" version="2" timestamp="2018-04-06T22:50:17Z" changeset="0"/>
+	<node id="2266988936" lat="56.1292831" lon="47.2452995" version="2" timestamp="2018-04-06T22:50:17Z" changeset="0"/>
+	<node id="2266988937" lat="56.1293144" lon="47.2449846" version="2" timestamp="2018-04-06T22:50:17Z" changeset="0"/>
+	<node id="2266988938" lat="56.1291143" lon="47.2452352" version="2" timestamp="2018-04-06T22:50:17Z" changeset="0"/>
+	<node id="2266988941" lat="56.1295158" lon="47.2451072" version="2" timestamp="2018-04-06T22:50:17Z" changeset="0"/>
+	<node id="2278639420" lat="56.1305461" lon="47.2771324" version="2" timestamp="2016-01-09T01:19:31Z" changeset="0"/>
+	<node id="2342923837" lat="56.1453213" lon="47.1894151" version="2" timestamp="2016-04-13T20:47:15Z" changeset="0"/>
+	<node id="2345361475" lat="56.0840323" lon="47.283742" version="1" timestamp="2013-06-15T11:06:34Z" changeset="0"/>
+	<node id="2443960597" lat="56.1370382" lon="47.1561598" version="1" timestamp="2013-09-03T06:16:28Z" changeset="0"/>
+	<node id="2508185004" lat="56.1226694" lon="47.2616081" version="2" timestamp="2016-01-17T21:04:27Z" changeset="0"/>
+	<node id="2508185027" lat="56.1229841" lon="47.2628171" version="2" timestamp="2016-01-17T21:04:27Z" changeset="0"/>
+	<node id="2508185030" lat="56.1229813" lon="47.2611319" version="2" timestamp="2016-01-17T21:04:27Z" changeset="0"/>
+	<node id="2508185033" lat="56.1230106" lon="47.2629197" version="2" timestamp="2016-01-17T21:04:27Z" changeset="0"/>
+	<node id="2508185063" lat="56.1236349" lon="47.2626527" version="2" timestamp="2016-01-17T21:04:28Z" changeset="0"/>
+	<node id="2621264423" lat="56.1360543" lon="47.2423491" version="2" timestamp="2017-09-26T14:36:04Z" changeset="0"/>
+	<node id="2621441027" lat="56.1135599" lon="47.2401541" version="2" timestamp="2019-09-08T14:53:03Z" changeset="0"/>
+	<node id="2621441035" lat="56.1127568" lon="47.2404063" version="2" timestamp="2019-09-08T14:53:03Z" changeset="0"/>
+	<node id="2621487281" lat="56.1138353" lon="47.2382477" version="2" timestamp="2019-09-08T14:53:03Z" changeset="0"/>
+	<node id="2622557350" lat="56.1086739" lon="47.1874898" version="3" timestamp="2021-06-28T12:04:43Z" changeset="0"/>
+	<node id="2639537967" lat="56.1100722" lon="47.1867315" version="2" timestamp="2016-03-20T21:49:26Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="2639537969" lat="56.1101682" lon="47.1806369" version="2" timestamp="2016-03-19T21:18:39Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="2797606800" lat="56.1251638" lon="47.1932452" version="2" timestamp="2018-01-22T08:27:00Z" changeset="0"/>
+	<node id="2797765850" lat="56.1182759" lon="47.1790225" version="2" timestamp="2016-04-02T23:01:42Z" changeset="0"/>
+	<node id="2797766449" lat="56.1239665" lon="47.1929056" version="2" timestamp="2018-01-22T08:27:00Z" changeset="0"/>
+	<node id="2797766453" lat="56.1240559" lon="47.1921998" version="1" timestamp="2014-04-17T21:37:45Z" changeset="0"/>
+	<node id="2797766465" lat="56.1246397" lon="47.1904211" version="2" timestamp="2018-01-22T08:27:00Z" changeset="0"/>
+	<node id="2797766466" lat="56.1246822" lon="47.1942092" version="2" timestamp="2018-01-22T08:27:00Z" changeset="0"/>
+	<node id="2965738358" lat="56.1247968" lon="47.2047065" version="2" timestamp="2015-07-11T23:15:58Z" changeset="0"/>
+	<node id="2965738379" lat="56.125952" lon="47.2032711" version="1" timestamp="2014-07-16T10:00:53Z" changeset="0"/>
+	<node id="3041682422" lat="56.0891406" lon="47.2834338" version="2" timestamp="2021-03-08T19:20:20Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="3042780933" lat="56.0982729" lon="47.2785992" version="1" timestamp="2014-08-26T06:50:15Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="3045494043" lat="56.0772882" lon="47.2803862" version="2" timestamp="2017-11-27T10:55:45Z" changeset="0"/>
+	<node id="3046090997" lat="56.1014241" lon="47.295143" version="2" timestamp="2017-02-17T09:56:39Z" changeset="0"/>
+	<node id="3046091009" lat="56.1013932" lon="47.2949767" version="2" timestamp="2017-02-17T09:56:39Z" changeset="0"/>
+	<node id="3047486683" lat="56.1178572" lon="47.2549959" version="3" timestamp="2016-01-20T13:38:50Z" changeset="0">
+		<tag k="foot" v="yes"/>
+		<tag k="barrier" v="gate"/>
+		<tag k="bicycle" v="yes"/>
+	</node>
+	<node id="3049980214" lat="56.1123532" lon="47.192038" version="3" timestamp="2018-02-01T13:23:24Z" changeset="0"/>
+	<node id="3053609177" lat="56.1400447" lon="47.1689807" version="3" timestamp="2018-02-17T18:20:09Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="3053609200" lat="56.1405417" lon="47.1712552" version="2" timestamp="2015-12-30T13:23:46Z" changeset="0">
+		<tag k="foot" v="yes"/>
+		<tag k="barrier" v="gate"/>
+		<tag k="bicycle" v="yes"/>
+	</node>
+	<node id="3053609206" lat="56.1407027" lon="47.1692986" version="1" timestamp="2014-09-01T13:43:57Z" changeset="0"/>
+	<node id="3053609213" lat="56.1407909" lon="47.1703347" version="1" timestamp="2014-09-01T13:43:57Z" changeset="0"/>
+	<node id="3053609244" lat="56.1423976" lon="47.1723854" version="1" timestamp="2014-09-01T13:43:58Z" changeset="0">
+		<tag k="foot" v="yes"/>
+		<tag k="barrier" v="gate"/>
+		<tag k="bicycle" v="yes"/>
+	</node>
+	<node id="3053609255" lat="56.1434293" lon="47.1755115" version="1" timestamp="2014-09-01T13:43:58Z" changeset="0"/>
+	<node id="3053609256" lat="56.143431" lon="47.1751236" version="1" timestamp="2014-09-01T13:43:58Z" changeset="0"/>
+	<node id="3053609257" lat="56.1434311" lon="47.1751724" version="1" timestamp="2014-09-01T13:43:58Z" changeset="0"/>
+	<node id="3053609258" lat="56.1434322" lon="47.1750526" version="1" timestamp="2014-09-01T13:43:58Z" changeset="0"/>
+	<node id="3240915186" lat="56.1440775" lon="47.2668935" version="2" timestamp="2021-07-14T08:38:56Z" changeset="0"/>
+	<node id="3355070310" lat="56.1180259" lon="47.1786715" version="3" timestamp="2016-04-02T23:01:43Z" changeset="0">
+		<tag k="access" v="yes"/>
+		<tag k="barrier" v="entrance"/>
+	</node>
+	<node id="3355070315" lat="56.1183325" lon="47.1762271" version="3" timestamp="2016-04-02T23:01:43Z" changeset="0">
+		<tag k="access" v="yes"/>
+		<tag k="barrier" v="entrance"/>
+	</node>
+	<node id="3355070319" lat="56.1187383" lon="47.1794248" version="1" timestamp="2015-02-17T00:15:16Z" changeset="0"/>
+	<node id="3355070323" lat="56.1190685" lon="47.1794093" version="1" timestamp="2015-02-17T00:15:16Z" changeset="0"/>
+	<node id="3647264298" lat="56.1186848" lon="47.25364" version="2" timestamp="2016-01-20T13:38:50Z" changeset="0"/>
+	<node id="3647264299" lat="56.1193599" lon="47.2539139" version="2" timestamp="2016-01-20T13:38:50Z" changeset="0"/>
+	<node id="3647264300" lat="56.1189024" lon="47.2555188" version="2" timestamp="2016-01-20T13:38:50Z" changeset="0"/>
+	<node id="3826331958" lat="56.1357527" lon="47.1577606" version="1" timestamp="2015-11-09T10:15:31Z" changeset="0"/>
+	<node id="3826331960" lat="56.1357618" lon="47.1576414" version="2" timestamp="2018-01-13T22:45:18Z" changeset="0">
+		<tag k="barrier" v="entrance"/>
+	</node>
+	<node id="3826331971" lat="56.1361252" lon="47.1585218" version="1" timestamp="2015-11-09T10:15:32Z" changeset="0"/>
+	<node id="3826331981" lat="56.1362933" lon="47.1586164" version="1" timestamp="2015-11-09T10:15:32Z" changeset="0"/>
+	<node id="3826332011" lat="56.1365537" lon="47.1587632" version="1" timestamp="2015-11-09T10:15:32Z" changeset="0"/>
+	<node id="3826332031" lat="56.1370579" lon="47.1588702" version="2" timestamp="2018-01-13T22:45:18Z" changeset="0">
+		<tag k="barrier" v="entrance"/>
+	</node>
+	<node id="3904622583" lat="56.1434776" lon="47.1609801" version="1" timestamp="2015-12-22T13:05:09Z" changeset="0"/>
+	<node id="3904622608" lat="56.1437589" lon="47.160062" version="1" timestamp="2015-12-22T13:05:09Z" changeset="0"/>
+	<node id="3904622615" lat="56.1439103" lon="47.1610741" version="3" timestamp="2018-02-18T11:07:41Z" changeset="0">
+		<tag k="foot" v="yes"/>
+		<tag k="barrier" v="gate"/>
+		<tag k="bicycle" v="yes"/>
+	</node>
+	<node id="3904622640" lat="56.1442368" lon="47.1598397" version="1" timestamp="2015-12-22T13:05:10Z" changeset="0"/>
+	<node id="3904622661" lat="56.1448212" lon="47.1641588" version="1" timestamp="2015-12-22T13:05:11Z" changeset="0"/>
+	<node id="3904622663" lat="56.1448722" lon="47.1613087" version="1" timestamp="2015-12-22T13:05:11Z" changeset="0"/>
+	<node id="3904622665" lat="56.1449314" lon="47.1602384" version="1" timestamp="2015-12-22T13:05:11Z" changeset="0"/>
+	<node id="3904622688" lat="56.1452202" lon="47.1621266" version="1" timestamp="2015-12-22T13:05:11Z" changeset="0"/>
+	<node id="3904622689" lat="56.1452504" lon="47.1627512" version="1" timestamp="2015-12-22T13:05:11Z" changeset="0"/>
+	<node id="3904622701" lat="56.1454105" lon="47.1651708" version="1" timestamp="2015-12-22T13:05:11Z" changeset="0"/>
+	<node id="3904622705" lat="56.1455009" lon="47.1620599" version="1" timestamp="2015-12-22T13:05:11Z" changeset="0"/>
+	<node id="3904622710" lat="56.1455149" lon="47.1648168" version="1" timestamp="2015-12-22T13:05:11Z" changeset="0"/>
+	<node id="3904622739" lat="56.1461064" lon="47.1658912" version="1" timestamp="2015-12-22T13:05:12Z" changeset="0"/>
+	<node id="3904622751" lat="56.14624" lon="47.165854" version="1" timestamp="2015-12-22T13:05:12Z" changeset="0"/>
+	<node id="3904622762" lat="56.1465449" lon="47.1637965" version="1" timestamp="2015-12-22T13:05:12Z" changeset="0"/>
+	<node id="3904622764" lat="56.1465878" lon="47.1643051" version="1" timestamp="2015-12-22T13:05:12Z" changeset="0"/>
+	<node id="3904622765" lat="56.1466255" lon="47.1645701" version="1" timestamp="2015-12-22T13:05:12Z" changeset="0"/>
+	<node id="3904622766" lat="56.146646" lon="47.1641417" version="2" timestamp="2019-11-30T20:24:39Z" changeset="0">
+		<tag k="foot" v="yes"/>
+		<tag k="barrier" v="gate"/>
+		<tag k="bicycle" v="yes"/>
+	</node>
+	<node id="3904622767" lat="56.1466599" lon="47.1640665" version="1" timestamp="2015-12-22T13:05:12Z" changeset="0"/>
+	<node id="3918563089" lat="56.1380648" lon="47.1656282" version="2" timestamp="2018-02-18T08:54:54Z" changeset="0"/>
+	<node id="3918563101" lat="56.1383002" lon="47.1663942" version="2" timestamp="2018-02-18T08:54:54Z" changeset="0"/>
+	<node id="3918563102" lat="56.1384548" lon="47.1648282" version="1" timestamp="2015-12-30T13:23:26Z" changeset="0"/>
+	<node id="3918563104" lat="56.1385348" lon="47.1651046" version="1" timestamp="2015-12-30T13:23:26Z" changeset="0"/>
+	<node id="3918563107" lat="56.1385896" lon="47.1664944" version="1" timestamp="2015-12-30T13:23:26Z" changeset="0"/>
+	<node id="3918563112" lat="56.1389303" lon="47.1643343" version="2" timestamp="2018-02-18T08:54:54Z" changeset="0"/>
+	<node id="3918563114" lat="56.1390036" lon="47.1645652" version="2" timestamp="2018-02-18T08:54:54Z" changeset="0"/>
+	<node id="3918563117" lat="56.1391048" lon="47.1645837" version="1" timestamp="2015-12-30T13:23:26Z" changeset="0"/>
+	<node id="3918563128" lat="56.139378" lon="47.1714315" version="1" timestamp="2015-12-30T13:23:27Z" changeset="0">
+		<tag k="foot" v="yes"/>
+		<tag k="barrier" v="gate"/>
+		<tag k="bicycle" v="yes"/>
+	</node>
+	<node id="3918563129" lat="56.1394113" lon="47.1656254" version="1" timestamp="2015-12-30T13:23:27Z" changeset="0"/>
+	<node id="3918563156" lat="56.1401928" lon="47.1715477" version="2" timestamp="2017-06-13T16:35:52Z" changeset="0">
+		<tag k="foot" v="yes"/>
+		<tag k="barrier" v="lift_gate"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="motor_vehicle" v="yes"/>
+	</node>
+	<node id="3918563359" lat="56.1402809" lon="47.1714742" version="1" timestamp="2015-12-30T13:23:27Z" changeset="0">
+		<tag k="foot" v="yes"/>
+		<tag k="barrier" v="gate"/>
+		<tag k="bicycle" v="yes"/>
+	</node>
+	<node id="3935025408" lat="56.1242907" lon="47.2726196" version="1" timestamp="2016-01-09T01:19:04Z" changeset="0"/>
+	<node id="3952531869" lat="56.1227558" lon="47.2602427" version="1" timestamp="2016-01-17T21:04:05Z" changeset="0"/>
+	<node id="3952531872" lat="56.1228635" lon="47.2606587" version="1" timestamp="2016-01-17T21:04:05Z" changeset="0"/>
+	<node id="3952531873" lat="56.1229767" lon="47.261093" version="1" timestamp="2016-01-17T21:04:05Z" changeset="0"/>
+	<node id="3952531878" lat="56.1233746" lon="47.262888" version="1" timestamp="2016-01-17T21:04:05Z" changeset="0">
+		<tag k="entrance" v="main"/>
+	</node>
+	<node id="3952531885" lat="56.1237039" lon="47.2625937" version="1" timestamp="2016-01-17T21:04:05Z" changeset="0"/>
+	<node id="4069101058" lat="56.1112649" lon="47.1810608" version="1" timestamp="2016-03-19T21:18:18Z" changeset="0"/>
+	<node id="4070537485" lat="56.1086099" lon="47.1805126" version="1" timestamp="2016-03-20T21:48:54Z" changeset="0"/>
+	<node id="4070537489" lat="56.1086709" lon="47.181491" version="1" timestamp="2016-03-20T21:48:54Z" changeset="0"/>
+	<node id="4070537499" lat="56.1091206" lon="47.1804443" version="1" timestamp="2016-03-20T21:48:54Z" changeset="0"/>
+	<node id="4070537500" lat="56.109147" lon="47.1810105" version="1" timestamp="2016-03-20T21:48:54Z" changeset="0"/>
+	<node id="4070537502" lat="56.1092579" lon="47.1809876" version="1" timestamp="2016-03-20T21:48:54Z" changeset="0"/>
+	<node id="4070537504" lat="56.1092821" lon="47.181365" version="1" timestamp="2016-03-20T21:48:54Z" changeset="0"/>
+	<node id="4098236923" lat="56.125299" lon="47.2060917" version="1" timestamp="2016-04-04T20:58:30Z" changeset="0"/>
+	<node id="4119649289" lat="56.139835" lon="47.1927041" version="1" timestamp="2016-04-13T20:46:52Z" changeset="0">
+		<tag k="foot" v="yes"/>
+		<tag k="barrier" v="gate"/>
+		<tag k="bicycle" v="yes"/>
+	</node>
+	<node id="4119649291" lat="56.1402556" lon="47.1922204" version="1" timestamp="2016-04-13T20:46:52Z" changeset="0">
+		<tag k="foot" v="yes"/>
+		<tag k="barrier" v="gate"/>
+		<tag k="bicycle" v="yes"/>
+	</node>
+	<node id="4375781354" lat="56.1451126" lon="47.1921488" version="4" timestamp="2021-02-02T21:03:16Z" changeset="0">
+		<tag k="amenity" v="school"/>
+		<tag k="email" v="sport-gimnast@cap.ru"/>
+		<tag k="name" v="Спортивная школа №6"/>
+		<tag k="official_name" v="БУ Чувашской Республики &#34;Спортивная школа олимпийского резерва №6&#34; Министерства физической культуры и спорта Чувашской Республики"/>
+		<tag k="phone" v="+7 8352 458130"/>
+		<tag k="website" v="http://www.gimnast.cap.ru"/>
+		<tag k="wheelchair" v="limited"/>
+	</node>
+	<node id="4584970558" lat="56.1477085" lon="47.2136327" version="1" timestamp="2017-01-02T07:02:33Z" changeset="0">
+		<tag k="name" v="Спортивная школа олимпийского резерва №7"/>
+		<tag k="email" v="velobuch@cap.ru"/>
+		<tag k="phone" v="+7 8352 324036"/>
+		<tag k="amenity" v="school"/>
+		<tag k="website" v="http://velosport.cap.ru/"/>
+		<tag k="short_name" v="СШОР №7"/>
+		<tag k="official_name" v="БУ ЧР &#34;Спортивная школа олимпийского резерва № 7 имени В. Ярды&#34; Министерства физической культуры и спорта ЧР"/>
+	</node>
+	<node id="4705942659" lat="56.1140878" lon="47.1846368" version="2" timestamp="2021-05-07T21:40:40Z" changeset="0"/>
+	<node id="4710130761" lat="56.1529389" lon="47.2413749" version="2" timestamp="2017-06-24T15:10:10Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="4920632377" lat="56.1387519" lon="47.2508716" version="2" timestamp="2019-09-08T03:57:54Z" changeset="0">
+		<tag k="name" v="Начальная общеобразовательная школа №1"/>
+		<tag k="phone" v="+7 8352 62‑11-90, +7 8352 62‑02-58"/>
+		<tag k="amenity" v="school"/>
+		<tag k="website" v="https://sosh-1.ru/"/>
+	</node>
+	<node id="4934216307" lat="56.1537988" lon="47.239982" version="1" timestamp="2017-06-24T15:10:09Z" changeset="0"/>
+	<node id="4934216315" lat="56.1536223" lon="47.2417192" version="1" timestamp="2017-06-24T15:10:09Z" changeset="0"/>
+	<node id="4944273315" lat="56.1502334" lon="47.2164217" version="2" timestamp="2017-07-30T19:57:06Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="4944273319" lat="56.1496393" lon="47.2185073" version="3" timestamp="2018-03-13T09:20:55Z" changeset="0">
+		<tag k="access" v="no"/>
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="4952755119" lat="56.1108017" lon="47.2642146" version="2" timestamp="2018-01-26T12:36:21Z" changeset="0"/>
+	<node id="5003703019" lat="56.1513122" lon="47.2169762" version="1" timestamp="2017-07-30T19:34:12Z" changeset="0"/>
+	<node id="5003703221" lat="56.1513633" lon="47.217304" version="1" timestamp="2017-07-30T19:34:12Z" changeset="0"/>
+	<node id="5003735165" lat="56.1497945" lon="47.2169996" version="1" timestamp="2017-07-30T19:57:05Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="5003735166" lat="56.1495701" lon="47.2173547" version="1" timestamp="2017-07-30T19:57:05Z" changeset="0"/>
+	<node id="5003735167" lat="56.1496068" lon="47.2179445" version="2" timestamp="2018-03-13T09:20:55Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="5003735168" lat="56.14956" lon="47.2174522" version="1" timestamp="2017-07-30T19:57:05Z" changeset="0"/>
+	<node id="5003735169" lat="56.1496114" lon="47.2172398" version="1" timestamp="2017-07-30T19:57:05Z" changeset="0"/>
+	<node id="5003735170" lat="56.1496436" lon="47.2185959" version="1" timestamp="2017-07-30T19:57:05Z" changeset="0"/>
+	<node id="5003735174" lat="56.1511706" lon="47.2164778" version="1" timestamp="2017-07-30T19:57:05Z" changeset="0"/>
+	<node id="5029083224" lat="56.1374332" lon="47.1570956" version="2" timestamp="2018-03-11T12:37:02Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="5046101807" lat="56.1531226" lon="47.2415236" version="1" timestamp="2017-08-20T10:54:05Z" changeset="0"/>
+	<node id="5130934992" lat="56.1376279" lon="47.2431741" version="1" timestamp="2017-09-26T14:35:56Z" changeset="0"/>
+	<node id="5191357048" lat="56.0775443" lon="47.2815889" version="2" timestamp="2017-11-27T16:00:09Z" changeset="0"/>
+	<node id="5191375948" lat="56.0772491" lon="47.2847956" version="2" timestamp="2017-11-27T16:00:10Z" changeset="0"/>
+	<node id="5191375949" lat="56.0781489" lon="47.284906" version="2" timestamp="2017-11-27T16:00:10Z" changeset="0"/>
+	<node id="5191375972" lat="56.0776936" lon="47.2851927" version="2" timestamp="2017-11-27T16:00:10Z" changeset="0"/>
+	<node id="5191375973" lat="56.0774003" lon="47.2851644" version="2" timestamp="2017-11-27T16:00:10Z" changeset="0"/>
+	<node id="5191375979" lat="56.0775155" lon="47.2852194" version="2" timestamp="2017-11-27T16:00:10Z" changeset="0"/>
+	<node id="5254259269" lat="56.0671349" lon="47.2826561" version="1" timestamp="2017-11-29T15:49:49Z" changeset="0"/>
+	<node id="5254259270" lat="56.0671809" lon="47.283439" version="1" timestamp="2017-11-29T15:49:49Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="5254259271" lat="56.0672894" lon="47.283719" version="1" timestamp="2017-11-29T15:49:49Z" changeset="0"/>
+	<node id="5254259272" lat="56.0671731" lon="47.2827045" version="1" timestamp="2017-11-29T15:49:49Z" changeset="0"/>
+	<node id="5337980754" lat="56.1365728" lon="47.1566806" version="1" timestamp="2018-01-13T22:45:11Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="5340911003" lat="56.1149155" lon="47.1842422" version="1" timestamp="2018-01-15T14:30:22Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="5350569592" lat="56.1297521" lon="47.2459279" version="2" timestamp="2018-04-06T22:50:18Z" changeset="0"/>
+	<node id="5363405613" lat="56.1096867" lon="47.2638486" version="1" timestamp="2018-01-26T12:36:11Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="5377963905" lat="56.1130211" lon="47.1938761" version="1" timestamp="2018-02-01T13:23:15Z" changeset="0">
+		<tag k="barrier" v="entrance"/>
+	</node>
+	<node id="5377963908" lat="56.1139232" lon="47.1929523" version="1" timestamp="2018-02-01T13:23:15Z" changeset="0">
+		<tag k="barrier" v="entrance"/>
+	</node>
+	<node id="5377963911" lat="56.1121391" lon="47.1924731" version="1" timestamp="2018-02-01T13:23:15Z" changeset="0"/>
+	<node id="5377963920" lat="56.1127659" lon="47.1918628" version="1" timestamp="2018-02-01T13:23:15Z" changeset="0">
+		<tag k="barrier" v="entrance"/>
+	</node>
+	<node id="5418728553" lat="56.1395993" lon="47.1693949" version="1" timestamp="2018-02-17T18:20:07Z" changeset="0"/>
+	<node id="5418728554" lat="56.1391618" lon="47.1707381" version="1" timestamp="2018-02-17T18:20:07Z" changeset="0"/>
+	<node id="5419732917" lat="56.1388699" lon="47.166198" version="1" timestamp="2018-02-18T08:54:49Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="5419732918" lat="56.1385043" lon="47.1647767" version="1" timestamp="2018-02-18T08:54:49Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="5419733308" lat="56.1389877" lon="47.1699636" version="1" timestamp="2018-02-18T08:54:51Z" changeset="0"/>
+	<node id="5443706152" lat="56.1226007" lon="47.2244629" version="1" timestamp="2018-02-28T20:23:00Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="5443706156" lat="56.1226491" lon="47.2242344" version="1" timestamp="2018-02-28T20:23:00Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="5475155850" lat="56.1496685" lon="47.2171496" version="1" timestamp="2018-03-13T09:27:16Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="5878049443" lat="56.1441381" lon="47.2517213" version="1" timestamp="2018-09-03T08:56:40Z" changeset="0">
+		<tag k="name" v="Спортивно-адаптивная школа"/>
+		<tag k="amenity" v="school"/>
+		<tag k="official_name" v="МБУ &#34;Спортивно-адаптивная школа&#34; управления физической культуры и спорта администрации города Чебоксары Чувашской Республики"/>
+	</node>
+	<node id="6013413549" lat="56.1451996" lon="47.178262" version="2" timestamp="2018-10-25T17:47:27Z" changeset="0">
+		<tag k="barrier" v="swing_gate"/>
+		<tag k="swing_gate:type" v="single"/>
+	</node>
+	<node id="6013413552" lat="56.1459344" lon="47.1782512" version="1" timestamp="2018-10-25T17:42:01Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="6013455683" lat="56.1465174" lon="47.1751743" version="1" timestamp="2018-10-25T18:07:28Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="6013455684" lat="56.1467037" lon="47.1749811" version="1" timestamp="2018-10-25T18:07:28Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="6013465064" lat="56.1460082" lon="47.1754263" version="2" timestamp="2019-07-19T10:22:58Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="6013568770" lat="56.1440112" lon="47.1724475" version="1" timestamp="2018-10-25T18:54:18Z" changeset="0"/>
+	<node id="6013572523" lat="56.1421488" lon="47.1735229" version="1" timestamp="2018-10-25T18:53:33Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="6135318942" lat="56.0967308" lon="47.2895738" version="2" timestamp="2021-06-22T11:04:25Z" changeset="0"/>
+	<node id="6587715661" lat="56.117544" lon="47.1767899" version="1" timestamp="2019-07-03T23:27:25Z" changeset="0">
+		<tag k="foot" v="yes"/>
+		<tag k="barrier" v="gate"/>
+		<tag k="bicycle" v="yes"/>
+		<tag k="motor_vehicle" v="no"/>
+	</node>
+	<node id="6780927659" lat="56.1136452" lon="47.2380513" version="1" timestamp="2019-09-08T14:53:03Z" changeset="0"/>
+	<node id="6780927660" lat="56.1124802" lon="47.2384429" version="1" timestamp="2019-09-08T14:53:03Z" changeset="0"/>
+	<node id="6780927661" lat="56.1126806" lon="47.2403392" version="1" timestamp="2019-09-08T14:53:03Z" changeset="0"/>
+	<node id="6780927662" lat="56.1136886" lon="47.2413594" version="1" timestamp="2019-09-08T14:53:03Z" changeset="0"/>
+	<node id="7004163398" lat="56.1357825" lon="47.1578549" version="1" timestamp="2019-11-23T13:48:03Z" changeset="0"/>
+	<node id="7587884410" lat="56.1082264" lon="47.1780427" version="1" timestamp="2020-06-03T05:02:11Z" changeset="0">
+		<tag k="name" v="Школа олимпийского резерва №5"/>
+		<tag k="amenity" v="school"/>
+	</node>
+	<node id="7614712890" lat="56.0962081" lon="47.2457261" version="1" timestamp="2020-06-12T08:45:30Z" changeset="0">
+		<tag k="name" v="Спортивная школа олимпийского резерва №2"/>
+		<tag k="amenity" v="school"/>
+		<tag k="website" v="liznaybaza.cap.ru"/>
+	</node>
+	<node id="8187817749" lat="56.1032168" lon="47.3058661" version="2" timestamp="2020-12-16T07:16:36Z" changeset="0"/>
+	<node id="8187817750" lat="56.1032199" lon="47.3059856" version="2" timestamp="2020-12-16T07:16:36Z" changeset="0"/>
+	<node id="8187817751" lat="56.1031895" lon="47.3061001" version="2" timestamp="2020-12-16T07:16:36Z" changeset="0"/>
+	<node id="8187817752" lat="56.1036701" lon="47.3080155" version="2" timestamp="2020-12-16T07:16:36Z" changeset="0"/>
+	<node id="8187817753" lat="56.1076416" lon="47.299048" version="1" timestamp="2020-12-02T15:43:05Z" changeset="0"/>
+	<node id="8187817755" lat="56.1076567" lon="47.3031309" version="1" timestamp="2020-12-02T15:43:05Z" changeset="0"/>
+	<node id="8187817756" lat="56.1068274" lon="47.304369" version="1" timestamp="2020-12-02T15:43:05Z" changeset="0"/>
+	<node id="8187817757" lat="56.1068991" lon="47.3039721" version="1" timestamp="2020-12-02T15:43:05Z" changeset="0"/>
+	<node id="8187817758" lat="56.108303" lon="47.3042736" version="1" timestamp="2020-12-02T15:43:05Z" changeset="0"/>
+	<node id="8233442703" lat="56.1071737" lon="47.3003364" version="1" timestamp="2020-12-16T07:16:36Z" changeset="0"/>
+	<node id="8233442704" lat="56.1065932" lon="47.2994264" version="1" timestamp="2020-12-16T07:16:36Z" changeset="0"/>
+	<node id="8460907717" lat="56.0778997" lon="47.2795731" version="1" timestamp="2021-02-26T11:12:01Z" changeset="0"/>
+	<node id="8603124829" lat="56.1236171" lon="47.2776568" version="1" timestamp="2021-04-07T15:37:45Z" changeset="0"/>
+	<node id="8603124830" lat="56.1236335" lon="47.2778419" version="1" timestamp="2021-04-07T15:37:45Z" changeset="0"/>
+	<node id="8807909444" lat="56.0965498" lon="47.2880584" version="2" timestamp="2021-06-22T11:04:25Z" changeset="0"/>
+	<node id="8807909462" lat="56.0961503" lon="47.2878009" version="2" timestamp="2021-06-22T11:04:25Z" changeset="0"/>
+	<node id="8856674790" lat="56.0956349" lon="47.2876145" version="1" timestamp="2021-06-22T11:04:25Z" changeset="0"/>
+	<node id="8856674794" lat="56.0956042" lon="47.2881255" version="1" timestamp="2021-06-22T11:04:25Z" changeset="0"/>
+	<node id="8856674795" lat="56.0955518" lon="47.2883588" version="1" timestamp="2021-06-22T11:04:25Z" changeset="0"/>
+	<node id="8856674796" lat="56.0953678" lon="47.288458" version="1" timestamp="2021-06-22T11:04:25Z" changeset="0"/>
+	<node id="8856674797" lat="56.0948576" lon="47.2903249" version="1" timestamp="2021-06-22T11:04:25Z" changeset="0"/>
+	<node id="8856674798" lat="56.0949429" lon="47.2908479" version="1" timestamp="2021-06-22T11:04:25Z" changeset="0"/>
+	<node id="8856674799" lat="56.0953693" lon="47.2912395" version="1" timestamp="2021-06-22T11:04:25Z" changeset="0"/>
+	<node id="8856674800" lat="56.0957433" lon="47.2910169" version="1" timestamp="2021-06-22T11:04:25Z" changeset="0"/>
+	<node id="8856674801" lat="56.0967532" lon="47.2885787" version="1" timestamp="2021-06-22T11:04:25Z" changeset="0"/>
+	<node id="8856674802" lat="56.0966889" lon="47.2881657" version="1" timestamp="2021-06-22T11:04:25Z" changeset="0"/>
+	<node id="8856674803" lat="56.0966433" lon="47.2881837" version="1" timestamp="2021-06-22T11:04:25Z" changeset="0"/>
+	<node id="8856674804" lat="56.0966186" lon="47.2881952" version="1" timestamp="2021-06-22T11:04:25Z" changeset="0"/>
+	<node id="8856674805" lat="56.0955601" lon="47.2879109" version="1" timestamp="2021-06-22T11:04:25Z" changeset="0"/>
+	<node id="8865839406" lat="56.1176613" lon="47.1889539" version="1" timestamp="2021-06-25T12:14:03Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="8865839409" lat="56.1170503" lon="47.1866002" version="1" timestamp="2021-06-25T12:14:03Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="8865839416" lat="56.1140876" lon="47.1846365" version="1" timestamp="2021-06-25T12:14:03Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="8872067743" lat="56.1119386" lon="47.1931776" version="1" timestamp="2021-06-28T12:04:43Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="8872067780" lat="56.1078289" lon="47.1863383" version="1" timestamp="2021-06-28T12:04:43Z" changeset="0"/>
+	<node id="8872067781" lat="56.107778" lon="47.1858689" version="1" timestamp="2021-06-28T12:04:43Z" changeset="0"/>
+	<node id="8872067782" lat="56.1098525" lon="47.18537" version="1" timestamp="2021-06-28T12:04:43Z" changeset="0"/>
+	<node id="8894595265" lat="56.1281684" lon="47.3821373" version="1" timestamp="2021-07-05T09:33:05Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="8894595266" lat="56.1294589" lon="47.3856776" version="1" timestamp="2021-07-05T09:33:05Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="8894595417" lat="56.1292195" lon="47.3829205" version="1" timestamp="2021-07-05T09:33:05Z" changeset="0"/>
+	<node id="8894595418" lat="56.1292634" lon="47.3821065" version="1" timestamp="2021-07-05T09:33:05Z" changeset="0"/>
+	<node id="8894595419" lat="56.1284765" lon="47.3820893" version="1" timestamp="2021-07-05T09:33:05Z" changeset="0"/>
+	<node id="8894595420" lat="56.1284586" lon="47.3822549" version="1" timestamp="2021-07-05T09:33:05Z" changeset="0"/>
+	<node id="8894595421" lat="56.1283046" lon="47.3822275" version="1" timestamp="2021-07-05T09:33:05Z" changeset="0"/>
+	<node id="8894595422" lat="56.128311" lon="47.3821118" version="1" timestamp="2021-07-05T09:33:05Z" changeset="0"/>
+	<node id="8894595423" lat="56.1281712" lon="47.382087" version="1" timestamp="2021-07-05T09:33:05Z" changeset="0"/>
+	<node id="8894595424" lat="56.1281583" lon="47.3823192" version="1" timestamp="2021-07-05T09:33:05Z" changeset="0"/>
+	<node id="8894595425" lat="56.1279771" lon="47.3855979" version="1" timestamp="2021-07-05T09:33:05Z" changeset="0"/>
+	<node id="8894595426" lat="56.1289707" lon="47.3857746" version="1" timestamp="2021-07-05T09:33:05Z" changeset="0"/>
+	<node id="8894595427" lat="56.1293353" lon="47.38594" version="1" timestamp="2021-07-05T09:33:05Z" changeset="0"/>
+	<node id="8894595428" lat="56.1294552" lon="47.3857365" version="1" timestamp="2021-07-05T09:33:05Z" changeset="0"/>
+	<node id="8894595429" lat="56.1296014" lon="47.3834609" version="1" timestamp="2021-07-05T09:33:05Z" changeset="0"/>
+	<node id="8894595430" lat="56.1294805" lon="47.3829733" version="1" timestamp="2021-07-05T09:33:05Z" changeset="0"/>
+	<node id="8894723716" lat="56.1442239" lon="47.2663357" version="1" timestamp="2021-07-05T10:26:42Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="9108438319" lat="56.1209497" lon="47.2264273" version="1" timestamp="2021-09-20T17:53:41Z" changeset="0">
+		<tag k="barrier" v="gate"/>
+	</node>
+	<node id="9111348694" lat="56.1008466" lon="47.3074026" version="1" timestamp="2021-09-21T16:14:38Z" changeset="0"/>
+	<way id="54112270" version="9" timestamp="2018-10-25T18:09:42Z" changeset="0">
+		<nd ref="682348085"/>
+		<nd ref="682348086"/>
+		<nd ref="6013455684"/>
+		<nd ref="6013455683"/>
+		<nd ref="682348088"/>
+		<nd ref="6013465064"/>
+		<nd ref="682348089"/>
+		<nd ref="682348090"/>
+		<nd ref="682348085"/>
+		<tag k="name" v="Школа №45"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="name:cv" v="45-мӗш шкул"/>
+	</way>
+	<way id="54356092" version="5" timestamp="2014-09-01T13:44:09Z" changeset="0">
+		<nd ref="685037915"/>
+		<nd ref="1863980289"/>
+		<nd ref="1863980288"/>
+	</way>
+	<way id="54644156" version="8" timestamp="2018-10-25T17:42:01Z" changeset="0">
+		<nd ref="687889735"/>
+		<nd ref="1146773064"/>
+		<nd ref="693234832"/>
+		<nd ref="687889749"/>
+		<nd ref="687889750"/>
+		<nd ref="6013413549"/>
+		<nd ref="6013413552"/>
+		<nd ref="687889754"/>
+		<nd ref="687889735"/>
+		<tag k="name" v="Школа №39"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="name:cv" v="39-мӗш шкул"/>
+	</way>
+	<way id="55083208" version="7" timestamp="2016-04-13T20:46:59Z" changeset="0">
+		<nd ref="976475456"/>
+		<nd ref="692969707"/>
+		<nd ref="692969709"/>
+		<nd ref="692969712"/>
+		<nd ref="1144906130"/>
+		<nd ref="692969715"/>
+	</way>
+	<way id="55083232" version="8" timestamp="2017-06-06T07:22:29Z" changeset="0">
+		<nd ref="976475456"/>
+		<nd ref="692969721"/>
+		<nd ref="692969723"/>
+		<nd ref="692969729"/>
+		<nd ref="692969731"/>
+		<nd ref="692969733"/>
+		<nd ref="692969734"/>
+		<nd ref="692969735"/>
+		<nd ref="692969737"/>
+		<nd ref="692969739"/>
+		<nd ref="692969741"/>
+		<nd ref="692969715"/>
+	</way>
+	<way id="55142745" version="6" timestamp="2013-09-12T20:09:20Z" changeset="0">
+		<nd ref="2342923837"/>
+		<nd ref="693348645"/>
+		<nd ref="693348611"/>
+		<nd ref="693348613"/>
+		<nd ref="693348614"/>
+		<nd ref="1874625294"/>
+	</way>
+	<way id="55275046" version="9" timestamp="2021-06-25T12:14:03Z" changeset="0">
+		<nd ref="694471694"/>
+		<nd ref="5340911003"/>
+		<nd ref="694471699"/>
+		<nd ref="4705942659"/>
+		<nd ref="8865839416"/>
+		<nd ref="694471705"/>
+		<nd ref="1933310891"/>
+		<nd ref="694471710"/>
+		<nd ref="694471694"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="email" v="lic4cheb@mail.ru"/>
+		<tag k="name" v="Лицей №4"/>
+		<tag k="official_name" v="Муниципальное автономное общеобразовательное учреждение &#34;Лицей №4&#34;"/>
+		<tag k="phone" v="8 8352 333753"/>
+		<tag k="website" v="https://lic4cheb.edusite.ru"/>
+	</way>
+	<way id="55342566" version="9" timestamp="2019-07-03T23:27:25Z" changeset="0">
+		<nd ref="3355070323"/>
+		<nd ref="695150516"/>
+		<nd ref="695150517"/>
+		<nd ref="695150518"/>
+		<nd ref="695150504"/>
+		<nd ref="695150505"/>
+		<nd ref="695150506"/>
+		<nd ref="695150507"/>
+		<nd ref="695150509"/>
+		<nd ref="3355070315"/>
+		<nd ref="695150510"/>
+		<nd ref="6587715661"/>
+		<nd ref="695150511"/>
+		<nd ref="3355070310"/>
+		<nd ref="2797765850"/>
+		<nd ref="695150513"/>
+		<nd ref="695150514"/>
+		<nd ref="3355070319"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="55443803" version="6" timestamp="2021-06-25T12:14:03Z" changeset="0">
+		<nd ref="696720725"/>
+		<nd ref="695420454"/>
+		<nd ref="696720564"/>
+		<nd ref="696720726"/>
+		<nd ref="8865839406"/>
+		<nd ref="696720727"/>
+		<nd ref="8865839409"/>
+		<nd ref="696720729"/>
+		<nd ref="696720725"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="email" v="sh50cheb@yandex.ru"/>
+		<tag k="name" v="Школа №50"/>
+		<tag k="official_name" v="Муниципальное бюджетное общеобразовательное учреждение средняя общеобразовательная школа №50"/>
+		<tag k="phone" v="8 8352 314125"/>
+		<tag k="website" v="https://сош50.рф/"/>
+	</way>
+	<way id="55496998" version="8" timestamp="2018-01-22T08:27:05Z" changeset="0">
+		<nd ref="2067551420"/>
+		<nd ref="697356049"/>
+		<nd ref="697356029"/>
+		<nd ref="2797766465"/>
+		<nd ref="697356034"/>
+		<nd ref="2797766453"/>
+		<nd ref="2797766449"/>
+		<nd ref="2797766466"/>
+		<nd ref="2797606800"/>
+	</way>
+	<way id="55503245" version="3" timestamp="2017-01-14T20:51:52Z" changeset="0">
+		<nd ref="697447195"/>
+		<nd ref="697447196"/>
+		<nd ref="1341926504"/>
+		<nd ref="697447197"/>
+		<nd ref="1341926389"/>
+		<nd ref="697447198"/>
+		<nd ref="697447199"/>
+		<nd ref="697447200"/>
+		<nd ref="697447195"/>
+		<tag k="name" v="Музыкальный лицей"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="addr:street" v="Гражданская улица"/>
+		<tag k="addr:housenumber" v="54"/>
+	</way>
+	<way id="55584736" version="7" timestamp="2016-04-04T20:58:36Z" changeset="0">
+		<nd ref="2965738358"/>
+		<nd ref="2965738379"/>
+		<nd ref="698615205"/>
+		<nd ref="698615206"/>
+		<nd ref="4098236923"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="55672046" version="4" timestamp="2016-03-19T21:18:27Z" changeset="0">
+		<nd ref="1884217146"/>
+		<nd ref="699527392"/>
+		<nd ref="699527393"/>
+		<nd ref="2639537969"/>
+		<nd ref="699527394"/>
+		<nd ref="4069101058"/>
+	</way>
+	<way id="55690805" version="6" timestamp="2016-03-19T21:18:27Z" changeset="0">
+		<nd ref="703205649"/>
+		<nd ref="699772249"/>
+		<nd ref="699772253"/>
+		<nd ref="699772259"/>
+		<nd ref="699772263"/>
+		<nd ref="699772242"/>
+		<nd ref="703205648"/>
+	</way>
+	<way id="56428758" version="1" timestamp="2010-04-26T11:28:58Z" changeset="0">
+		<nd ref="707186390"/>
+		<nd ref="707186401"/>
+		<nd ref="707186415"/>
+		<nd ref="707186427"/>
+		<nd ref="707186436"/>
+		<nd ref="707186447"/>
+		<nd ref="707186390"/>
+		<tag k="name" v="Художественная школа"/>
+		<tag k="amenity" v="school"/>
+	</way>
+	<way id="56428770" version="9" timestamp="2020-12-16T07:16:36Z" changeset="0">
+		<nd ref="707186790"/>
+		<nd ref="8233442703"/>
+		<nd ref="707186794"/>
+		<nd ref="8233442704"/>
+		<nd ref="707186803"/>
+		<nd ref="707186810"/>
+		<nd ref="707186816"/>
+		<nd ref="707186822"/>
+		<nd ref="707186827"/>
+		<nd ref="8187817753"/>
+		<nd ref="707186790"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="name" v="Школа №55"/>
+		<tag k="name:cv" v="55-мӗш шкул"/>
+		<tag k="ref" v="55"/>
+		<tag k="wheelchair" v="limited"/>
+	</way>
+	<way id="56428788" version="6" timestamp="2014-08-20T08:51:29Z" changeset="0">
+		<nd ref="707187182"/>
+		<nd ref="707187185"/>
+		<nd ref="1512608834"/>
+		<nd ref="707187187"/>
+		<nd ref="1512608811"/>
+		<nd ref="707187190"/>
+		<nd ref="707187182"/>
+		<tag k="ref" v="15"/>
+		<tag k="name" v="Школа №15"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="name:cv" v="15-мӗш шкул"/>
+	</way>
+	<way id="56428792" version="8" timestamp="2014-08-23T14:27:25Z" changeset="0">
+		<nd ref="707187266"/>
+		<nd ref="707187272"/>
+		<nd ref="707187298"/>
+		<nd ref="707187302"/>
+		<nd ref="2246801256"/>
+		<nd ref="707187318"/>
+		<nd ref="2246801083"/>
+		<nd ref="707187266"/>
+		<tag k="ref" v="49"/>
+		<tag k="name" v="Школа №49"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="name:cv" v="49-мӗш шкул"/>
+	</way>
+	<way id="56428797" version="6" timestamp="2014-08-20T08:51:29Z" changeset="0">
+		<nd ref="707187432"/>
+		<nd ref="1512608913"/>
+		<nd ref="707187442"/>
+		<nd ref="707187455"/>
+		<nd ref="707187462"/>
+		<nd ref="707187477"/>
+		<nd ref="707187486"/>
+		<nd ref="707187489"/>
+		<nd ref="707187432"/>
+		<tag k="ref" v="47"/>
+		<tag k="name" v="Школа №47"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="name:cv" v="47-мӗш шкул"/>
+	</way>
+	<way id="56428801" version="7" timestamp="2021-03-08T19:20:29Z" changeset="0">
+		<nd ref="707187510"/>
+		<nd ref="1512608904"/>
+		<nd ref="1512608901"/>
+		<nd ref="1512608917"/>
+		<nd ref="1512608922"/>
+		<nd ref="707187520"/>
+		<nd ref="707187527"/>
+		<nd ref="707187534"/>
+		<nd ref="707187541"/>
+		<nd ref="1512608919"/>
+		<nd ref="747737354"/>
+		<nd ref="707187549"/>
+		<nd ref="707187577"/>
+		<nd ref="3041682422"/>
+		<nd ref="707187510"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="name" v="Школа №22"/>
+		<tag k="name:cv" v="22-мӗш шкул"/>
+		<tag k="ref" v="22"/>
+	</way>
+	<way id="56428807" version="7" timestamp="2016-11-20T00:56:04Z" changeset="0">
+		<nd ref="707187776"/>
+		<nd ref="707187788"/>
+		<nd ref="707187797"/>
+		<nd ref="707187800"/>
+		<nd ref="3042780933"/>
+		<nd ref="707187776"/>
+		<tag k="name" v="Школа №37"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="name:cv" v="37-мӗш шкул"/>
+		<tag k="wheelchair" v="no"/>
+	</way>
+	<way id="56428809" version="9" timestamp="2014-08-23T14:15:16Z" changeset="0">
+		<nd ref="707187814"/>
+		<nd ref="707187825"/>
+		<nd ref="707187831"/>
+		<nd ref="707187836"/>
+		<nd ref="707187814"/>
+		<tag k="ref" v="20"/>
+		<tag k="name" v="Школа №20"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="name:cv" v="20-мӗш Шкул"/>
+	</way>
+	<way id="56428820" version="5" timestamp="2014-08-20T08:40:54Z" changeset="0">
+		<nd ref="707188058"/>
+		<nd ref="707188069"/>
+		<nd ref="707188077"/>
+		<nd ref="707188084"/>
+		<nd ref="707188058"/>
+		<tag k="ref" v="17"/>
+		<tag k="name" v="Школа №17"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="name:cv" v="17-мӗш шкул"/>
+	</way>
+	<way id="56428834" version="8" timestamp="2017-02-17T09:56:39Z" changeset="0">
+		<nd ref="707188367"/>
+		<nd ref="707188374"/>
+		<nd ref="707188379"/>
+		<nd ref="707188383"/>
+		<nd ref="707188387"/>
+		<nd ref="707188390"/>
+		<nd ref="707188393"/>
+		<nd ref="707188400"/>
+		<nd ref="3046091009"/>
+		<nd ref="3046090997"/>
+		<nd ref="707188367"/>
+		<tag k="ref" v="43"/>
+		<tag k="name" v="Школа №43"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="name:cv" v="43-мӗш шкул"/>
+		<tag k="wheelchair" v="limited"/>
+	</way>
+	<way id="56428838" version="10" timestamp="2016-11-18T21:23:53Z" changeset="0">
+		<nd ref="707188567"/>
+		<nd ref="707188570"/>
+		<nd ref="707188573"/>
+		<nd ref="707188578"/>
+		<nd ref="707188580"/>
+		<nd ref="707188582"/>
+		<nd ref="707188567"/>
+		<tag k="ref" v="41"/>
+		<tag k="name" v="Школа №41"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="name:cv" v="41-мӗш шкул"/>
+		<tag k="wheelchair" v="no"/>
+		<tag k="toilets:wheelchair" v="no"/>
+	</way>
+	<way id="56428839" version="10" timestamp="2016-11-18T21:24:06Z" changeset="0">
+		<nd ref="707188595"/>
+		<nd ref="1511816238"/>
+		<nd ref="1511816393"/>
+		<nd ref="707188596"/>
+		<nd ref="707188609"/>
+		<nd ref="707188613"/>
+		<nd ref="707188620"/>
+		<nd ref="707188595"/>
+		<tag k="ref" v="40"/>
+		<tag k="name" v="Школа №40"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="name:cv" v="40-мӗш шкул"/>
+		<tag k="wheelchair" v="no"/>
+		<tag k="toilets:wheelchair" v="no"/>
+	</way>
+	<way id="56428840" version="2" timestamp="2014-08-20T08:39:02Z" changeset="0">
+		<nd ref="707188628"/>
+		<nd ref="707188632"/>
+		<nd ref="707188637"/>
+		<nd ref="707188640"/>
+		<nd ref="707188628"/>
+		<tag k="name" v="Музыкальная школа"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name:cv" v="Кӗвӗ-юрӑ шкулӗ"/>
+	</way>
+	<way id="56428842" version="10" timestamp="2020-12-03T16:12:43Z" changeset="0">
+		<nd ref="707188741"/>
+		<nd ref="1324716511"/>
+		<nd ref="8187817749"/>
+		<nd ref="8187817750"/>
+		<nd ref="8187817751"/>
+		<nd ref="707188749"/>
+		<nd ref="8187817752"/>
+		<nd ref="707188758"/>
+		<nd ref="707188775"/>
+		<nd ref="707188741"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="int_name" v="Lyceum 44"/>
+		<tag k="name" v="Лицей №44"/>
+		<tag k="old_name" v="School 44"/>
+		<tag k="ref" v="44"/>
+		<tag k="website" v="http://lic44.ru/"/>
+	</way>
+	<way id="56428844" version="7" timestamp="2021-09-21T16:14:38Z" changeset="0">
+		<nd ref="707188841"/>
+		<nd ref="9111348694"/>
+		<nd ref="707188842"/>
+		<nd ref="707188843"/>
+		<nd ref="707188844"/>
+		<nd ref="707188845"/>
+		<nd ref="707188846"/>
+		<nd ref="1394738155"/>
+		<nd ref="707188841"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="name" v="Школа №56"/>
+		<tag k="name:cv" v="56-мӗш шкул"/>
+		<tag k="ref" v="56"/>
+	</way>
+	<way id="56428849" version="9" timestamp="2020-12-03T16:12:43Z" changeset="0">
+		<nd ref="707188860"/>
+		<nd ref="8187817758"/>
+		<nd ref="707188864"/>
+		<nd ref="707188875"/>
+		<nd ref="8187817756"/>
+		<nd ref="8187817757"/>
+		<nd ref="707188886"/>
+		<nd ref="707188890"/>
+		<nd ref="707188895"/>
+		<nd ref="8187817755"/>
+		<nd ref="707188860"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="int_name" v="Gymnasium 46"/>
+		<tag k="name" v="Гимназия №46"/>
+		<tag k="ref" v="46"/>
+		<tag k="wheelchair" v="limited"/>
+	</way>
+	<way id="56428881" version="10" timestamp="2021-03-03T10:46:59Z" changeset="0">
+		<nd ref="707189775"/>
+		<nd ref="707189781"/>
+		<nd ref="707189791"/>
+		<nd ref="707189804"/>
+		<nd ref="1395852523"/>
+		<nd ref="707189775"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="email" v="obrazov-rgs1@cap.ru"/>
+		<tag k="name" v="НОШ №1"/>
+		<tag k="official_name" v="&#34;Чебоксарская НОШ для обучающихся с ОВЗ №1&#34; Минобразования Чувашии"/>
+		<tag k="phone" v="+7 8352 521763"/>
+		<tag k="website" v="http://www.noshkr-gcheb.edu.cap.ru/"/>
+	</way>
+	<way id="56428882" version="10" timestamp="2017-02-19T06:29:03Z" changeset="0">
+		<nd ref="707189896"/>
+		<nd ref="707189901"/>
+		<nd ref="707189906"/>
+		<nd ref="707189910"/>
+		<nd ref="707189914"/>
+		<nd ref="1396044273"/>
+		<nd ref="707189921"/>
+		<nd ref="707189932"/>
+		<nd ref="1842519060"/>
+		<nd ref="707189896"/>
+		<tag k="ref" v="52"/>
+		<tag k="name" v="Школа №53"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="56428886" version="11" timestamp="2021-03-27T11:48:11Z" changeset="0">
+		<nd ref="707190055"/>
+		<nd ref="707190061"/>
+		<nd ref="707190066"/>
+		<nd ref="707190072"/>
+		<nd ref="707190077"/>
+		<nd ref="707190086"/>
+		<nd ref="1511344995"/>
+		<nd ref="707190092"/>
+		<nd ref="707190096"/>
+		<nd ref="707190055"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="email" v="nosh2cbx@yandex.ru"/>
+		<tag k="name" v="Начальная школа №2"/>
+		<tag k="official_name" v="МБОУ &#34;Начальная общеобразовательная школа №2&#34; города Чебоксары Чувашской Республики"/>
+		<tag k="phone" v="+7 8352 259053"/>
+		<tag k="website" v="http://myschool2.ru/"/>
+	</way>
+	<way id="56689140" version="7" timestamp="2021-07-05T10:26:42Z" changeset="0">
+		<nd ref="708997451"/>
+		<nd ref="708997452"/>
+		<nd ref="708997453"/>
+		<nd ref="3240915186"/>
+		<nd ref="1901105153"/>
+		<nd ref="8894723716"/>
+		<nd ref="708997454"/>
+		<nd ref="708997451"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="name" v="Школа №11"/>
+		<tag k="name:cv" v="11-мӗш шкул"/>
+	</way>
+	<way id="56700756" version="7" timestamp="2021-04-07T15:37:45Z" changeset="0">
+		<nd ref="709149394"/>
+		<nd ref="709149396"/>
+		<nd ref="8603124830"/>
+		<nd ref="8603124829"/>
+		<nd ref="709149397"/>
+		<nd ref="709149398"/>
+		<nd ref="1646694411"/>
+		<nd ref="1646694412"/>
+		<nd ref="709149394"/>
+		<tag k="amenity" v="school"/>
+		<tag k="email" v="cheb_sosh35@rus21.ru"/>
+		<tag k="name" v="Школа №35"/>
+		<tag k="name:cv" v="35-мӗш шкул"/>
+		<tag k="website" v="21204s09.edusite.ru"/>
+	</way>
+	<way id="56700759" version="8" timestamp="2016-01-09T01:19:17Z" changeset="0">
+		<nd ref="709149457"/>
+		<nd ref="709149460"/>
+		<nd ref="709149463"/>
+		<nd ref="709149468"/>
+		<nd ref="709149430"/>
+	</way>
+	<way id="56700763" version="5" timestamp="2017-01-06T20:47:29Z" changeset="0">
+		<nd ref="709149579"/>
+		<nd ref="709149584"/>
+		<nd ref="709149588"/>
+		<nd ref="709149593"/>
+		<nd ref="709149597"/>
+		<nd ref="709149600"/>
+		<nd ref="709149605"/>
+		<nd ref="709149609"/>
+		<nd ref="709149579"/>
+		<tag k="name" v="Школа №33"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name:cv" v="33-мӗш шкул"/>
+	</way>
+	<way id="56700770" version="8" timestamp="2016-10-28T17:14:03Z" changeset="0">
+		<nd ref="709149951"/>
+		<nd ref="709149955"/>
+		<nd ref="2278639420"/>
+		<nd ref="709149960"/>
+		<nd ref="709149970"/>
+		<nd ref="709149976"/>
+		<nd ref="709149982"/>
+		<nd ref="709149951"/>
+		<tag k="name" v="Школа №30"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name:cv" v="30-мӗш шкул"/>
+		<tag k="addr:street" v="улица Патриса Лумумбы"/>
+		<tag k="addr:housenumber" v="10А"/>
+	</way>
+	<way id="56700778" version="5" timestamp="2016-01-09T01:19:17Z" changeset="0">
+		<nd ref="709150185"/>
+		<nd ref="709150192"/>
+		<nd ref="709150195"/>
+		<nd ref="709150157"/>
+		<nd ref="709150161"/>
+		<nd ref="709150165"/>
+		<nd ref="709150170"/>
+		<nd ref="709150182"/>
+		<nd ref="709150188"/>
+	</way>
+	<way id="56743359" version="7" timestamp="2016-04-19T07:03:34Z" changeset="0">
+		<nd ref="710211260"/>
+		<nd ref="2228295545"/>
+		<nd ref="2228295580"/>
+		<nd ref="710211263"/>
+		<nd ref="710211264"/>
+		<nd ref="2228295641"/>
+		<nd ref="2228295605"/>
+		<nd ref="710211265"/>
+		<nd ref="710211266"/>
+		<nd ref="710211260"/>
+		<tag k="name" v="Гимназия №4"/>
+		<tag k="amenity" v="school"/>
+	</way>
+	<way id="57933307" version="8" timestamp="2021-06-28T12:04:43Z" changeset="0">
+		<nd ref="718883190"/>
+		<nd ref="718883195"/>
+		<nd ref="8872067782"/>
+		<nd ref="718883197"/>
+		<nd ref="718883200"/>
+		<nd ref="2639537967"/>
+		<nd ref="718883203"/>
+		<nd ref="718883206"/>
+		<nd ref="718883210"/>
+		<nd ref="2622557350"/>
+		<nd ref="8872067780"/>
+		<nd ref="8872067781"/>
+		<nd ref="718883190"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="name" v="Школа №60"/>
+		<tag k="phone" v="8 (8352) 314663"/>
+		<tag k="website" v="https://21202s17.edusite.ru/"/>
+	</way>
+	<way id="58491672" version="8" timestamp="2021-06-28T12:04:43Z" changeset="0">
+		<nd ref="5377963911"/>
+		<nd ref="725047061"/>
+		<nd ref="8872067743"/>
+		<nd ref="725047067"/>
+		<nd ref="725047071"/>
+		<nd ref="5377963905"/>
+		<nd ref="725047073"/>
+		<nd ref="725047074"/>
+		<nd ref="725047076"/>
+		<nd ref="5377963908"/>
+		<nd ref="725047079"/>
+		<nd ref="725047082"/>
+		<nd ref="5377963920"/>
+		<nd ref="3049980214"/>
+	</way>
+	<way id="58883281" version="5" timestamp="2018-04-06T22:50:18Z" changeset="0">
+		<nd ref="1078665362"/>
+		<nd ref="2266988917"/>
+		<nd ref="729653876"/>
+		<nd ref="2266988929"/>
+	</way>
+	<way id="59044054" version="3" timestamp="2014-10-11T10:10:27Z" changeset="0">
+		<nd ref="731926585"/>
+		<nd ref="731926588"/>
+		<nd ref="731926591"/>
+		<nd ref="731926594"/>
+		<nd ref="731926585"/>
+		<tag k="name" v="Гимназия №2"/>
+		<tag k="amenity" v="school"/>
+		<tag k="old_name" v="Средняя школа №16"/>
+	</way>
+	<way id="59048237" version="3" timestamp="2016-04-19T07:03:33Z" changeset="0">
+		<nd ref="731953041"/>
+		<nd ref="731953037"/>
+		<nd ref="731953039"/>
+		<nd ref="731953040"/>
+		<nd ref="731953046"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="59058508" version="11" timestamp="2016-01-20T13:38:43Z" changeset="0">
+		<nd ref="732060889"/>
+		<nd ref="3647264298"/>
+		<nd ref="732060894"/>
+		<nd ref="3647264299"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="59060477" version="3" timestamp="2016-04-13T20:46:59Z" changeset="0">
+		<nd ref="692969715"/>
+		<nd ref="976475456"/>
+	</way>
+	<way id="59076754" version="7" timestamp="2019-11-23T13:48:03Z" changeset="0">
+		<nd ref="732221626"/>
+		<nd ref="7004163398"/>
+		<nd ref="3826331958"/>
+		<nd ref="3826331960"/>
+		<nd ref="732221627"/>
+		<nd ref="5337980754"/>
+		<nd ref="2443960597"/>
+		<nd ref="732221623"/>
+		<nd ref="5029083224"/>
+		<nd ref="732221624"/>
+		<nd ref="3826332031"/>
+		<nd ref="732221625"/>
+		<nd ref="3826332011"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="59538745" version="5" timestamp="2016-01-17T21:04:13Z" changeset="0">
+		<nd ref="3952531869"/>
+		<nd ref="3952531872"/>
+	</way>
+	<way id="59538753" version="4" timestamp="2016-01-17T21:04:14Z" changeset="0">
+		<nd ref="3952531873"/>
+		<nd ref="2508185030"/>
+		<nd ref="738430140"/>
+		<nd ref="2508185004"/>
+	</way>
+	<way id="59698699" version="6" timestamp="2017-09-26T10:24:14Z" changeset="0">
+		<nd ref="2231770665"/>
+		<nd ref="740732883"/>
+		<nd ref="740732886"/>
+		<nd ref="740732889"/>
+		<nd ref="740732892"/>
+	</way>
+	<way id="60120990" version="4" timestamp="2014-08-20T08:12:10Z" changeset="0">
+		<nd ref="746958440"/>
+		<nd ref="746958442"/>
+		<nd ref="746958444"/>
+		<nd ref="746958445"/>
+		<nd ref="746958440"/>
+		<tag k="name" v="Школа №24"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name:cv" v="24-мӗш шкул"/>
+		<tag k="addr:street" v="проспект Ленина"/>
+		<tag k="addr:housenumber" v="55А"/>
+	</way>
+	<way id="60123403" version="6" timestamp="2018-01-26T12:36:22Z" changeset="0">
+		<nd ref="4952755119"/>
+		<nd ref="746979978"/>
+		<nd ref="5363405613"/>
+		<nd ref="746979972"/>
+		<nd ref="1185532334"/>
+		<nd ref="746979973"/>
+		<nd ref="746979974"/>
+		<nd ref="958540862"/>
+		<nd ref="958540967"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="60127795" version="6" timestamp="2020-10-14T05:52:55Z" changeset="0">
+		<nd ref="747016333"/>
+		<nd ref="747016334"/>
+		<nd ref="747016335"/>
+		<nd ref="747016336"/>
+		<nd ref="747016333"/>
+		<tag k="amenity" v="school"/>
+		<tag k="email" v="soch19@mail.ru"/>
+		<tag k="name" v="Школа №19"/>
+		<tag k="name:cv" v="19-мӗш шкул"/>
+		<tag k="phone" v="+7 8352 639166"/>
+		<tag k="website" v="http://21203s11.edusite.ru/"/>
+	</way>
+	<way id="60127796" version="6" timestamp="2020-10-14T05:52:55Z" changeset="0">
+		<nd ref="747016337"/>
+		<nd ref="747016338"/>
+		<nd ref="747016339"/>
+		<nd ref="747016340"/>
+		<nd ref="747016337"/>
+		<tag k="addr:housenumber" v="17"/>
+		<tag k="addr:street" v="Хевешская улица"/>
+		<tag k="amenity" v="school"/>
+		<tag k="email" v="cheb_sosh36@rus21.ru"/>
+		<tag k="name" v="Школа №36"/>
+		<tag k="name:cv" v="36-мӗш шкул"/>
+		<tag k="phone" v="+7 8352 286614"/>
+		<tag k="website" v="http://sosh36.citycheb.ru/"/>
+	</way>
+	<way id="60202011" version="8" timestamp="2017-05-11T16:23:57Z" changeset="0">
+		<nd ref="747753334"/>
+		<nd ref="747753335"/>
+		<nd ref="2345361475"/>
+		<nd ref="747753336"/>
+		<nd ref="747753337"/>
+		<nd ref="747753334"/>
+		<tag k="ref" v="28"/>
+		<tag k="name" v="Школа №28"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="name:cv" v="28-мӗш шкул"/>
+		<tag k="wheelchair" v="limited"/>
+	</way>
+	<way id="60203101" version="7" timestamp="2021-02-26T11:12:02Z" changeset="0">
+		<nd ref="3045494043"/>
+		<nd ref="747764837"/>
+		<nd ref="747764808"/>
+		<nd ref="747764814"/>
+		<nd ref="747764819"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="60203102" version="7" timestamp="2017-11-27T16:00:11Z" changeset="0">
+		<nd ref="5191375948"/>
+		<nd ref="747764940"/>
+		<nd ref="747764943"/>
+		<nd ref="747764858"/>
+		<nd ref="747764867"/>
+		<nd ref="747764877"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="61651173" version="5" timestamp="2018-02-28T20:23:01Z" changeset="0">
+		<nd ref="768577635"/>
+		<nd ref="768577636"/>
+		<nd ref="768577637"/>
+		<nd ref="768577638"/>
+		<nd ref="5443706152"/>
+		<nd ref="5443706156"/>
+		<nd ref="768577635"/>
+		<tag k="name" v="Школа для глухих"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name:cv" v="Илтменнисен шкулӗ"/>
+	</way>
+	<way id="76086134" version="9" timestamp="2018-02-18T08:54:57Z" changeset="0">
+		<nd ref="897576496"/>
+		<nd ref="3053609177"/>
+		<nd ref="5418728553"/>
+		<nd ref="5419733308"/>
+		<nd ref="897576878"/>
+		<nd ref="5418728554"/>
+		<nd ref="3918563128"/>
+		<nd ref="897577383"/>
+		<nd ref="3918563156"/>
+		<nd ref="3918563359"/>
+		<nd ref="3053609200"/>
+		<nd ref="897577062"/>
+		<nd ref="3053609213"/>
+		<nd ref="3053609206"/>
+		<nd ref="897576496"/>
+		<tag k="name" v="Школа №48"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="name:cv" v="48-мӗш Шкул"/>
+		<tag k="addr:city" v="Чебоксары"/>
+		<tag k="addr:street" v="улица Мичмана Павлова"/>
+		<tag k="addr:housenumber" v="50/1"/>
+	</way>
+	<way id="98689214" version="14" timestamp="2021-06-29T14:39:19Z" changeset="0">
+		<nd ref="1141773260"/>
+		<nd ref="5003735165"/>
+		<nd ref="5475155850"/>
+		<nd ref="5003735169"/>
+		<nd ref="5003735166"/>
+		<nd ref="5003735168"/>
+		<nd ref="1141773275"/>
+		<nd ref="1141773271"/>
+		<nd ref="5003735167"/>
+		<nd ref="4944273319"/>
+		<nd ref="5003735170"/>
+		<nd ref="1141773270"/>
+		<nd ref="1141773261"/>
+		<nd ref="5003703221"/>
+		<nd ref="5003703019"/>
+		<nd ref="1141773276"/>
+		<nd ref="5003735174"/>
+		<nd ref="1141773263"/>
+		<nd ref="4944273315"/>
+		<nd ref="1141773260"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="email" v="chebsosh2@yandex.ru"/>
+		<tag k="name" v="Школа №2"/>
+		<tag k="name:cv" v="2-мӗш шкул"/>
+		<tag k="official_name" v="Муниципальное бюджетное общеобразовательное учреждение &#34;Средняя общеобразовательная школа № 2 имени Героя Советского Союза В.И.Урукова&#34;"/>
+		<tag k="phone" v="+7 8352 584042"/>
+		<tag k="website" v="http://www.sosh2-gcheb.edu21.cap.ru/?t=eduid&#38;eduid=4694"/>
+	</way>
+	<way id="98696346" version="8" timestamp="2018-01-20T22:05:41Z" changeset="0">
+		<nd ref="1141835841"/>
+		<nd ref="1141835843"/>
+		<nd ref="1141835840"/>
+		<nd ref="1152550139"/>
+		<nd ref="1152379022"/>
+		<nd ref="1141835842"/>
+		<nd ref="1142062316"/>
+		<nd ref="1142062317"/>
+		<nd ref="1142062313"/>
+		<nd ref="1141835841"/>
+		<tag k="name" v="Школа №31"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name:cv" v="31-мӗш шкул"/>
+	</way>
+	<way id="98940619" version="5" timestamp="2016-01-17T21:04:14Z" changeset="0">
+		<nd ref="3952531872"/>
+		<nd ref="3952531873"/>
+	</way>
+	<way id="98950182" version="8" timestamp="2017-08-20T10:54:05Z" changeset="0">
+		<nd ref="1144716897"/>
+		<nd ref="4934216307"/>
+		<nd ref="1144716886"/>
+		<nd ref="4934216315"/>
+		<nd ref="1144716867"/>
+		<nd ref="5046101807"/>
+		<nd ref="1144716863"/>
+		<nd ref="4710130761"/>
+		<nd ref="1144716866"/>
+		<nd ref="1144716897"/>
+		<tag k="name" v="Кадетская школа"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="name:cv" v="Кадет шкулӗ"/>
+	</way>
+	<way id="98961226" version="5" timestamp="2016-04-13T20:47:00Z" changeset="0">
+		<nd ref="1144906086"/>
+		<nd ref="1144905984"/>
+		<nd ref="4119649289"/>
+		<nd ref="1144906062"/>
+		<nd ref="4119649291"/>
+		<nd ref="1144906168"/>
+		<nd ref="1144906086"/>
+		<tag k="name" v="Учебно-воспитательный центр"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="official_name" v="НОУ &#34;Учебно-воспитательный центр&#34;"/>
+	</way>
+	<way id="99145434" version="5" timestamp="2016-01-11T14:15:03Z" changeset="0">
+		<nd ref="1146773064"/>
+		<nd ref="1146773065"/>
+		<nd ref="1146773071"/>
+		<nd ref="1146773073"/>
+		<nd ref="687889749"/>
+		<nd ref="693234832"/>
+		<nd ref="1146773064"/>
+		<tag k="name" v="Гимназия №1"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="name:cv" v="1-мӗш гимнаҫи"/>
+	</way>
+	<way id="102649750" version="4" timestamp="2018-01-26T12:36:23Z" changeset="0">
+		<nd ref="4952755119"/>
+		<nd ref="958540967"/>
+	</way>
+	<way id="139135691" version="11" timestamp="2018-01-27T23:09:42Z" changeset="0">
+		<nd ref="1544534470"/>
+		<nd ref="5254259272"/>
+		<nd ref="5254259269"/>
+		<nd ref="1524913035"/>
+		<nd ref="1927255085"/>
+		<nd ref="1524913044"/>
+		<nd ref="1524913043"/>
+		<nd ref="1927255087"/>
+		<nd ref="2248436869"/>
+		<nd ref="1524913041"/>
+		<nd ref="5254259271"/>
+		<nd ref="1524913046"/>
+		<nd ref="5254259270"/>
+		<nd ref="1544534486"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="140169016" version="5" timestamp="2017-09-26T14:36:07Z" changeset="0">
+		<nd ref="710211215"/>
+		<nd ref="710211206"/>
+		<nd ref="5130934992"/>
+		<nd ref="1535134413"/>
+		<nd ref="2621264423"/>
+		<nd ref="710211207"/>
+		<nd ref="710211208"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="140676232" version="4" timestamp="2021-09-20T17:53:44Z" changeset="0">
+		<nd ref="1540701323"/>
+		<nd ref="9108438319"/>
+		<nd ref="1540701318"/>
+		<nd ref="1540701322"/>
+		<nd ref="1540701331"/>
+		<nd ref="1540701316"/>
+		<nd ref="1540701334"/>
+		<nd ref="1540701323"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name" v="Школа №9"/>
+		<tag k="name:cv" v="9-мӗш шкул"/>
+	</way>
+	<way id="141092463" version="3" timestamp="2021-10-18T20:50:08Z" changeset="0">
+		<nd ref="1544534470"/>
+		<nd ref="1544534488"/>
+		<nd ref="1544534486"/>
+	</way>
+	<way id="141182435" version="2" timestamp="2016-01-17T21:04:11Z" changeset="0">
+		<nd ref="1177218451"/>
+		<nd ref="1177218486"/>
+	</way>
+	<way id="141182439" version="2" timestamp="2016-01-17T21:04:12Z" changeset="0">
+		<nd ref="1177218486"/>
+		<nd ref="738430147"/>
+	</way>
+	<way id="175838861" version="4" timestamp="2014-09-01T13:44:07Z" changeset="0">
+		<nd ref="685037915"/>
+		<nd ref="685037916"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="184913738" version="1" timestamp="2012-10-09T12:48:51Z" changeset="0">
+		<nd ref="700719273"/>
+		<nd ref="699772218"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="184913749" version="1" timestamp="2012-10-09T12:48:52Z" changeset="0">
+		<nd ref="700719269"/>
+		<nd ref="700719271"/>
+		<nd ref="700719273"/>
+	</way>
+	<way id="184913754" version="1" timestamp="2012-10-09T12:48:53Z" changeset="0">
+		<nd ref="699772218"/>
+		<nd ref="1884277032"/>
+		<nd ref="700719269"/>
+	</way>
+	<way id="186492694" version="1" timestamp="2012-10-18T12:38:31Z" changeset="0">
+		<nd ref="710211208"/>
+		<nd ref="710211215"/>
+	</way>
+	<way id="204049306" version="5" timestamp="2019-09-08T14:53:03Z" changeset="0">
+		<nd ref="683798844"/>
+		<nd ref="2045390219"/>
+		<nd ref="6780927662"/>
+	</way>
+	<way id="206351653" version="3" timestamp="2016-03-19T21:18:27Z" changeset="0">
+		<nd ref="4069101058"/>
+		<nd ref="699527390"/>
+		<nd ref="1884217146"/>
+	</way>
+	<way id="215266398" version="3" timestamp="2021-02-26T11:12:02Z" changeset="0">
+		<nd ref="747760190"/>
+		<nd ref="2246706798"/>
+		<nd ref="2246706789"/>
+		<nd ref="747760189"/>
+	</way>
+	<way id="217432514" version="3" timestamp="2018-04-06T22:50:20Z" changeset="0">
+		<nd ref="1078665355"/>
+		<nd ref="2266988930"/>
+		<nd ref="2266988938"/>
+		<nd ref="2266988933"/>
+		<nd ref="2266988928"/>
+		<nd ref="2266988936"/>
+		<nd ref="2266988924"/>
+		<nd ref="2266988937"/>
+		<nd ref="2266988918"/>
+		<nd ref="2266988941"/>
+		<nd ref="2232076435"/>
+	</way>
+	<way id="237738635" version="1" timestamp="2013-09-12T20:09:19Z" changeset="0">
+		<nd ref="1874625294"/>
+		<nd ref="693348618"/>
+		<nd ref="693348620"/>
+		<nd ref="693348626"/>
+		<nd ref="693348632"/>
+		<nd ref="693348640"/>
+		<nd ref="2342923837"/>
+	</way>
+	<way id="243403256" version="1" timestamp="2013-10-25T11:06:48Z" changeset="0">
+		<nd ref="2508185004"/>
+		<nd ref="2508185027"/>
+	</way>
+	<way id="243403257" version="1" timestamp="2013-10-25T11:06:48Z" changeset="0">
+		<nd ref="2508185027"/>
+		<nd ref="2508185033"/>
+	</way>
+	<way id="243403259" version="2" timestamp="2016-01-17T21:04:13Z" changeset="0">
+		<nd ref="2508185033"/>
+		<nd ref="738430145"/>
+		<nd ref="3952531878"/>
+		<nd ref="2508185063"/>
+	</way>
+	<way id="256482181" version="2" timestamp="2019-09-08T14:53:03Z" changeset="0">
+		<nd ref="6780927662"/>
+		<nd ref="2621441027"/>
+		<nd ref="2621441035"/>
+		<nd ref="6780927661"/>
+		<nd ref="6780927660"/>
+		<nd ref="6780927659"/>
+		<nd ref="2621487281"/>
+	</way>
+	<way id="256496597" version="2" timestamp="2019-09-08T14:53:03Z" changeset="0">
+		<nd ref="683798844"/>
+		<nd ref="683798845"/>
+		<nd ref="683798846"/>
+		<nd ref="683798847"/>
+		<nd ref="2621487281"/>
+	</way>
+	<way id="301281312" version="1" timestamp="2014-09-01T13:44:00Z" changeset="0">
+		<nd ref="685010097"/>
+		<nd ref="685010098"/>
+	</way>
+	<way id="301281322" version="1" timestamp="2014-09-01T13:44:01Z" changeset="0">
+		<nd ref="3053609257"/>
+		<nd ref="3053609255"/>
+		<nd ref="685010097"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="301281324" version="1" timestamp="2014-09-01T13:44:01Z" changeset="0">
+		<nd ref="685037916"/>
+		<nd ref="3053609258"/>
+		<nd ref="3053609256"/>
+		<nd ref="3053609257"/>
+	</way>
+	<way id="301281328" version="1" timestamp="2014-09-01T13:44:01Z" changeset="0">
+		<nd ref="685010098"/>
+		<nd ref="685037917"/>
+		<nd ref="685037918"/>
+		<nd ref="685037919"/>
+		<nd ref="1863980288"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="301281333" version="3" timestamp="2018-10-25T18:54:19Z" changeset="0">
+		<nd ref="1863980288"/>
+		<nd ref="6013572523"/>
+		<nd ref="685037920"/>
+		<nd ref="685037921"/>
+		<nd ref="3053609244"/>
+		<nd ref="685037913"/>
+		<nd ref="6013568770"/>
+		<nd ref="685037914"/>
+		<nd ref="685037915"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="328680705" version="1" timestamp="2015-02-17T00:15:17Z" changeset="0">
+		<nd ref="3355070319"/>
+		<nd ref="3355070323"/>
+	</way>
+	<way id="379335343" version="1" timestamp="2015-11-09T10:15:34Z" changeset="0">
+		<nd ref="3826331971"/>
+		<nd ref="732221626"/>
+	</way>
+	<way id="379335346" version="1" timestamp="2015-11-09T10:15:35Z" changeset="0">
+		<nd ref="3826331981"/>
+		<nd ref="3826331971"/>
+	</way>
+	<way id="379335347" version="1" timestamp="2015-11-09T10:15:35Z" changeset="0">
+		<nd ref="3826332011"/>
+		<nd ref="3826331981"/>
+	</way>
+	<way id="387138268" version="1" timestamp="2015-12-22T13:05:14Z" changeset="0">
+		<nd ref="3904622663"/>
+		<nd ref="3904622665"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="387138294" version="1" timestamp="2015-12-22T13:05:15Z" changeset="0">
+		<nd ref="3904622665"/>
+		<nd ref="3904622640"/>
+		<nd ref="3904622608"/>
+		<nd ref="3904622583"/>
+		<nd ref="3904622615"/>
+		<nd ref="3904622663"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="387138299" version="1" timestamp="2015-12-22T13:05:16Z" changeset="0">
+		<nd ref="3904622688"/>
+		<nd ref="3904622705"/>
+		<nd ref="679797702"/>
+		<nd ref="3904622762"/>
+		<nd ref="3904622767"/>
+		<nd ref="3904622766"/>
+		<nd ref="3904622764"/>
+		<nd ref="3904622765"/>
+		<nd ref="3904622751"/>
+		<nd ref="3904622739"/>
+		<nd ref="3904622701"/>
+		<nd ref="3904622710"/>
+		<nd ref="3904622661"/>
+		<nd ref="3904622689"/>
+		<nd ref="3904622688"/>
+		<tag k="name" v="Школа №59"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name:cv" v="59-мӗш шкул"/>
+	</way>
+	<way id="388690881" version="4" timestamp="2020-06-30T01:35:02Z" changeset="0">
+		<nd ref="3918563104"/>
+		<nd ref="3918563089"/>
+		<nd ref="3918563101"/>
+		<nd ref="3918563107"/>
+		<nd ref="5419732917"/>
+		<nd ref="3918563129"/>
+		<nd ref="3918563117"/>
+		<nd ref="3918563114"/>
+		<nd ref="3918563112"/>
+		<nd ref="5419732918"/>
+		<nd ref="3918563102"/>
+		<nd ref="3918563104"/>
+		<tag k="name" v="Начальная школа-детский сад для детей с нарушением речи"/>
+		<tag k="phone" v="+7-8352-43-44-21"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="website" v="http://nsds2.ru/"/>
+		<tag k="official_name" v="Начальная школа-детский сад для детей с нарушением речи"/>
+	</way>
+	<way id="390342966" version="1" timestamp="2016-01-09T01:19:07Z" changeset="0">
+		<nd ref="709149457"/>
+		<nd ref="3935025408"/>
+	</way>
+	<way id="390342978" version="1" timestamp="2016-01-09T01:19:07Z" changeset="0">
+		<nd ref="709149430"/>
+		<nd ref="709149443"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="390342982" version="1" timestamp="2016-01-09T01:19:07Z" changeset="0">
+		<nd ref="709150188"/>
+		<nd ref="709150185"/>
+	</way>
+	<way id="390342983" version="1" timestamp="2016-01-09T01:19:07Z" changeset="0">
+		<nd ref="709149443"/>
+		<nd ref="2026711957"/>
+		<nd ref="2026711953"/>
+	</way>
+	<way id="390342990" version="1" timestamp="2016-01-09T01:19:08Z" changeset="0">
+		<nd ref="3935025408"/>
+		<nd ref="709149408"/>
+		<nd ref="2026711953"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="391970338" version="1" timestamp="2016-01-17T21:04:05Z" changeset="0">
+		<nd ref="1177218429"/>
+		<nd ref="1177218451"/>
+		<tag k="barrier" v="wall"/>
+	</way>
+	<way id="391970340" version="1" timestamp="2016-01-17T21:04:05Z" changeset="0">
+		<nd ref="3952531869"/>
+		<nd ref="1177262304"/>
+		<tag k="barrier" v="wall"/>
+	</way>
+	<way id="391970361" version="1" timestamp="2016-01-17T21:04:06Z" changeset="0">
+		<nd ref="2508185063"/>
+		<nd ref="3952531885"/>
+		<nd ref="738430147"/>
+	</way>
+	<way id="391970364" version="1" timestamp="2016-01-17T21:04:06Z" changeset="0">
+		<nd ref="1177262304"/>
+		<nd ref="1177262216"/>
+		<nd ref="1177262309"/>
+		<nd ref="1177218429"/>
+		<tag k="barrier" v="wall"/>
+	</way>
+	<way id="392447995" version="2" timestamp="2021-01-06T12:18:30Z" changeset="0">
+		<nd ref="3647264300"/>
+		<nd ref="732060874"/>
+		<nd ref="732060884"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="survey:date" v="2021-01-06"/>
+	</way>
+	<way id="392448001" version="1" timestamp="2016-01-20T13:38:36Z" changeset="0">
+		<nd ref="3647264299"/>
+		<nd ref="732060866"/>
+		<nd ref="3647264300"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="392448002" version="2" timestamp="2021-01-06T12:18:31Z" changeset="0">
+		<nd ref="732060884"/>
+		<nd ref="3047486683"/>
+		<nd ref="732060889"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="survey:date" v="2021-01-06"/>
+	</way>
+	<way id="404628150" version="1" timestamp="2016-03-19T21:18:19Z" changeset="0">
+		<nd ref="703205648"/>
+		<nd ref="703205649"/>
+	</way>
+	<way id="404796807" version="1" timestamp="2016-03-20T21:48:59Z" changeset="0">
+		<nd ref="4070537485"/>
+		<nd ref="4070537499"/>
+		<nd ref="4070537500"/>
+		<nd ref="4070537502"/>
+		<nd ref="4070537504"/>
+		<nd ref="4070537489"/>
+		<nd ref="4070537485"/>
+		<tag k="name" v="Вечерняя школа №2"/>
+		<tag k="amenity" v="school"/>
+	</way>
+	<way id="407788547" version="1" timestamp="2016-04-04T20:58:30Z" changeset="0">
+		<nd ref="4098236923"/>
+		<nd ref="2965738358"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="411600441" version="1" timestamp="2016-04-19T07:03:31Z" changeset="0">
+		<nd ref="731953046"/>
+		<nd ref="731953041"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="440534795" version="3" timestamp="2017-11-27T16:00:14Z" changeset="0">
+		<nd ref="5191375949"/>
+		<nd ref="5191375972"/>
+		<nd ref="5191375979"/>
+		<nd ref="5191375973"/>
+		<nd ref="5191375948"/>
+	</way>
+	<way id="527797088" version="1" timestamp="2017-09-26T10:24:01Z" changeset="0">
+		<nd ref="740732892"/>
+		<nd ref="740732879"/>
+		<nd ref="740732881"/>
+		<nd ref="2231770663"/>
+	</way>
+	<way id="527797092" version="1" timestamp="2017-09-26T10:24:02Z" changeset="0">
+		<nd ref="2231770663"/>
+		<nd ref="2231770665"/>
+	</way>
+	<way id="529074628" version="3" timestamp="2021-06-22T11:04:27Z" changeset="0">
+		<nd ref="8856674805"/>
+		<nd ref="8856674790"/>
+		<nd ref="2232047375"/>
+		<nd ref="8807909462"/>
+		<nd ref="8807909444"/>
+		<nd ref="8856674804"/>
+		<nd ref="8856674803"/>
+		<nd ref="8856674802"/>
+		<nd ref="8856674801"/>
+		<nd ref="6135318942"/>
+		<nd ref="8856674800"/>
+		<nd ref="8856674799"/>
+		<nd ref="8856674798"/>
+		<nd ref="8856674797"/>
+		<nd ref="8856674796"/>
+		<nd ref="8856674795"/>
+		<nd ref="8856674794"/>
+		<nd ref="8856674805"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="name" v="Кадетская школа"/>
+	</way>
+	<way id="535665154" version="2" timestamp="2017-11-27T16:00:15Z" changeset="0">
+		<nd ref="747764896"/>
+		<nd ref="747764905"/>
+		<nd ref="5191375949"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="543126075" version="1" timestamp="2017-11-27T15:59:57Z" changeset="0">
+		<nd ref="747764877"/>
+		<nd ref="5191357048"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="543126076" version="1" timestamp="2017-11-27T15:59:57Z" changeset="0">
+		<nd ref="5191357048"/>
+		<nd ref="747764896"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="554810860" version="1" timestamp="2018-01-22T08:26:56Z" changeset="0">
+		<nd ref="2797606800"/>
+		<nd ref="2067551420"/>
+	</way>
+	<way id="557654019" version="1" timestamp="2018-02-01T13:23:18Z" changeset="0">
+		<nd ref="3049980214"/>
+		<nd ref="5377963911"/>
+	</way>
+	<way id="577315504" version="1" timestamp="2018-04-06T22:50:13Z" changeset="0">
+		<nd ref="5350569592"/>
+		<nd ref="729653874"/>
+		<nd ref="729653877"/>
+		<nd ref="2266988914"/>
+	</way>
+	<way id="577315505" version="1" timestamp="2018-04-06T22:50:13Z" changeset="0">
+		<nd ref="2266988929"/>
+		<nd ref="5350569592"/>
+	</way>
+	<way id="577315510" version="1" timestamp="2018-04-06T22:50:14Z" changeset="0">
+		<nd ref="1078665362"/>
+		<nd ref="2266988921"/>
+	</way>
+	<way id="577315511" version="1" timestamp="2018-04-06T22:50:14Z" changeset="0">
+		<nd ref="2266988914"/>
+		<nd ref="2266988913"/>
+		<nd ref="2266988919"/>
+	</way>
+	<way id="577315512" version="1" timestamp="2018-04-06T22:50:14Z" changeset="0">
+		<nd ref="2232076435"/>
+		<nd ref="2266988919"/>
+	</way>
+	<way id="577315514" version="1" timestamp="2018-04-06T22:50:14Z" changeset="0">
+		<nd ref="2266988921"/>
+		<nd ref="1078665355"/>
+	</way>
+	<way id="911201355" version="1" timestamp="2021-02-26T11:12:01Z" changeset="0">
+		<nd ref="747764819"/>
+		<nd ref="8460907717"/>
+	</way>
+	<way id="911201357" version="1" timestamp="2021-02-26T11:12:01Z" changeset="0">
+		<nd ref="3045494043"/>
+		<nd ref="747753341"/>
+	</way>
+	<way id="911201358" version="1" timestamp="2021-02-26T11:12:01Z" changeset="0">
+		<nd ref="747753341"/>
+		<nd ref="8460907717"/>
+	</way>
+	<way id="911201360" version="1" timestamp="2021-02-26T11:12:01Z" changeset="0">
+		<nd ref="747760189"/>
+		<nd ref="747760190"/>
+		<tag k="barrier" v="fence"/>
+	</way>
+	<way id="961550251" version="1" timestamp="2021-07-05T09:33:05Z" changeset="0">
+		<nd ref="8894595430"/>
+		<nd ref="8894595429"/>
+		<nd ref="8894595266"/>
+		<nd ref="8894595428"/>
+		<nd ref="8894595427"/>
+		<nd ref="8894595426"/>
+		<nd ref="8894595425"/>
+		<nd ref="8894595424"/>
+		<nd ref="8894595265"/>
+		<nd ref="8894595423"/>
+		<nd ref="8894595422"/>
+		<nd ref="8894595421"/>
+		<nd ref="8894595420"/>
+		<nd ref="8894595419"/>
+		<nd ref="8894595418"/>
+		<nd ref="8894595417"/>
+		<nd ref="8894595430"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="name" v="Школа №65"/>
+		<tag k="phone" v="+7 8352 323061"/>
+		<tag k="website" v="http://sosh65cheb.ru/"/>
+	</way>
+	<relation id="2464484" version="6" timestamp="2021-07-07T10:58:08Z" changeset="0">
+		<member type="way" ref="184913754" role="outer"/>
+		<member type="way" ref="184913738" role="outer"/>
+		<member type="way" ref="184913749" role="outer"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="email" v="mdou55@yandex.ru"/>
+		<tag k="name" v="Детский сад №55"/>
+		<tag k="name:cv" v="55-мӗш ача пахчи"/>
+		<tag k="official_name" v="Муниципальное бюджетное дошкольное образовательное учреждение &#34;Детский сад № 55&#34;"/>
+		<tag k="phone" v="+7 8352 398259"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="website" v="http://mdoo55.ucoz.ru/index/0-1"/>
+	</relation>
+	<relation id="2464495" version="3" timestamp="2016-03-19T21:18:24Z" changeset="0">
+		<member type="way" ref="206351653" role="outer"/>
+		<member type="way" ref="55672046" role="outer"/>
+		<tag k="name" v="Центр дополнительного образования"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+	</relation>
+	<relation id="2511050" version="3" timestamp="2016-05-31T04:41:06Z" changeset="0">
+		<member type="way" ref="140169016" role="outer"/>
+		<member type="way" ref="186492694" role="outer"/>
+		<tag k="name" v="Гимназия №5"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name:cv" v="5-мӗш гимнаҫи"/>
+	</relation>
+	<relation id="3202912" version="3" timestamp="2014-10-16T17:09:32Z" changeset="0">
+		<member type="way" ref="55142745" role="outer"/>
+		<member type="way" ref="237738635" role="outer"/>
+		<tag k="name" v="Школа №29"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name:cv" v="29-мӗш шкул"/>
+	</relation>
+	<relation id="3290679" version="3" timestamp="2016-01-17T21:04:10Z" changeset="0">
+		<member type="way" ref="243403257" role="outer"/>
+		<member type="way" ref="243403256" role="outer"/>
+		<member type="way" ref="59538753" role="outer"/>
+		<member type="way" ref="98940619" role="outer"/>
+		<member type="way" ref="59538745" role="outer"/>
+		<member type="way" ref="391970340" role="outer"/>
+		<member type="way" ref="391970364" role="outer"/>
+		<member type="way" ref="391970338" role="outer"/>
+		<member type="way" ref="141182435" role="outer"/>
+		<member type="way" ref="141182439" role="outer"/>
+		<member type="way" ref="391970361" role="outer"/>
+		<member type="way" ref="243403259" role="outer"/>
+		<tag k="name" v="ПТУ Олимпийского резерва"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name:cv" v="Олимп резервӗн вӗрентешӗ"/>
+		<tag k="addr:street" v="Школьный проезд"/>
+		<tag k="addr:housenumber" v="3"/>
+	</relation>
+	<relation id="4005550" version="2" timestamp="2014-09-16T14:51:33Z" changeset="0">
+		<member type="way" ref="54356092" role="outer"/>
+		<member type="way" ref="301281333" role="outer"/>
+		<tag k="name" v="Лицей №3"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name:cv" v="3-мӗш лицей"/>
+	</relation>
+	<relation id="4005551" version="2" timestamp="2014-11-23T12:29:20Z" changeset="0">
+		<member type="way" ref="54356092" role="outer"/>
+		<member type="way" ref="175838861" role="outer"/>
+		<member type="way" ref="301281324" role="outer"/>
+		<member type="way" ref="301281322" role="outer"/>
+		<member type="way" ref="301281312" role="outer"/>
+		<member type="way" ref="301281328" role="outer"/>
+		<tag k="name" v="Школа №54"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name:cv" v="54-мӗш шкул"/>
+	</relation>
+	<relation id="4597734" version="2" timestamp="2021-06-25T12:14:03Z" changeset="0">
+		<member type="way" ref="55342566" role="outer"/>
+		<member type="way" ref="328680705" role="outer"/>
+		<tag k="amenity" v="school"/>
+		<tag k="email" v="cheb_sosh61@mail.ru"/>
+		<tag k="name" v="Школа №61"/>
+		<tag k="name:cv" v="61-мӗш Шкул"/>
+		<tag k="official_name" v="Муниципальное автономное общеобразовательное учреждение &#34;Средняя общеобразовательная школа №61&#34;"/>
+		<tag k="phone" v="8 8352 312728"/>
+		<tag k="type" v="multipolygon"/>
+	</relation>
+	<relation id="5650644" version="2" timestamp="2017-08-11T16:13:02Z" changeset="0">
+		<member type="way" ref="59076754" role="outer"/>
+		<member type="way" ref="379335343" role="outer"/>
+		<member type="way" ref="379335346" role="outer"/>
+		<member type="way" ref="379335347" role="outer"/>
+		<tag k="name" v="Школа №62"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="name:cv" v="64-мӗш шкул"/>
+	</relation>
+	<relation id="5761699" version="3" timestamp="2017-07-15T09:52:11Z" changeset="0">
+		<member type="way" ref="387138294" role="outer"/>
+		<member type="way" ref="387138268" role="outer"/>
+		<tag k="name" v="Школа-сад №3 для обучающихся с ограниченными возможностями здоровья"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="email" v="rgskoy@mail.ru; nadezhda@cap.ru"/>
+		<tag k="phone" v="+7-8352-43-39-07; +7-8352-41-88-56"/>
+		<tag k="amenity" v="school"/>
+		<tag k="website" v="http://www.rgskoy.ru/"/>
+		<tag k="official_name" v="Бюджетное общеобразовательное учреждение &#34;Чебоксарская начальная общеобразовательная школа для обучающихся с ограниченными возможностями здоровья № 3&#34; Министерства образования и молодежной политики ЧР"/>
+		<tag k="opening_hours" v="Mo-Fr 07:00-19:00"/>
+	</relation>
+	<relation id="5840208" version="1" timestamp="2016-01-09T01:19:14Z" changeset="0">
+		<member type="way" ref="56700778" role="outer"/>
+		<member type="way" ref="390342982" role="outer"/>
+		<tag k="name" v="Школа №23"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name:cv" v="23-мӗш шкул"/>
+	</relation>
+	<relation id="5840209" version="1" timestamp="2016-01-09T01:19:14Z" changeset="0">
+		<member type="way" ref="390342990" role="outer"/>
+		<member type="way" ref="390342966" role="outer"/>
+		<member type="way" ref="56700759" role="outer"/>
+		<member type="way" ref="390342978" role="outer"/>
+		<member type="way" ref="390342983" role="outer"/>
+		<tag k="name" v="Школа №38"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name:cv" v="38-мӗш шкул"/>
+	</relation>
+	<relation id="5882990" version="1" timestamp="2016-01-20T13:38:38Z" changeset="0">
+		<member type="way" ref="392448002" role="outer"/>
+		<member type="way" ref="59058508" role="outer"/>
+		<member type="way" ref="392448001" role="outer"/>
+		<member type="way" ref="392447995" role="outer"/>
+		<tag k="name" v="Школа №10"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name:cv" v="10-мӗш шкул"/>
+		<tag k="short_name" v="СОШ №10"/>
+		<tag k="official_name" v="МБОУ СОШ №10 имени лётчика-космонавта А.Г. Николаева города Чебоксары Чувашской Республики"/>
+	</relation>
+	<relation id="6065619" version="1" timestamp="2016-03-19T21:18:23Z" changeset="0">
+		<member type="way" ref="55690805" role="outer"/>
+		<member type="way" ref="404628150" role="outer"/>
+		<tag k="name" v="Школа №7"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name:cv" v="7-мӗш шкул"/>
+	</relation>
+	<relation id="6105825" version="1" timestamp="2016-04-04T20:58:33Z" changeset="0">
+		<member type="way" ref="55584736" role="outer"/>
+		<member type="way" ref="407788547" role="outer"/>
+		<tag k="name" v="Школа №14"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name:cv" v="14-мӗш шкул"/>
+		<tag k="addr:street" v="Гражданская улица"/>
+		<tag k="addr:housenumber" v="50"/>
+	</relation>
+	<relation id="6135838" version="2" timestamp="2018-02-22T14:46:41Z" changeset="0">
+		<member type="way" ref="59060477" role="outer"/>
+		<member type="way" ref="55083208" role="outer"/>
+		<tag k="name" v="ДЮСШ по баскетболу"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="amenity" v="school"/>
+		<tag k="building" v="yes"/>
+		<tag k="addr:street" v="улица Мичмана Павлова"/>
+		<tag k="official_name" v="МОУДОД «ДЮСШ по баскетболу имени В.И.Грекова»"/>
+		<tag k="addr:housenumber" v="9"/>
+	</relation>
+	<relation id="6135841" version="2" timestamp="2017-06-06T07:22:32Z" changeset="0">
+		<member type="way" ref="59060477" role="outer"/>
+		<member type="way" ref="55083232" role="outer"/>
+		<tag k="name" v="Школа №27"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="amenity" v="school"/>
+		<tag k="building" v="yes"/>
+		<tag k="addr:street" v="улица Мичмана Павлова"/>
+		<tag k="addr:housenumber" v="9"/>
+	</relation>
+	<relation id="6151998" version="1" timestamp="2016-04-19T07:03:32Z" changeset="0">
+		<member type="way" ref="59048237" role="outer"/>
+		<member type="way" ref="411600441" role="outer"/>
+		<tag k="name" v="Школа №6"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name:cv" v="6-мӗш шкул"/>
+	</relation>
+	<relation id="7233192" version="3" timestamp="2017-11-27T16:00:15Z" changeset="0">
+		<member type="way" ref="535665154" role="outer"/>
+		<member type="way" ref="543126076" role="outer"/>
+		<member type="way" ref="543126075" role="outer"/>
+		<member type="way" ref="60203102" role="outer"/>
+		<member type="way" ref="440534795" role="outer"/>
+		<tag k="ref" v="3"/>
+		<tag k="name" v="Школа №3"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name:cv" v="3-мӗш шкул"/>
+	</relation>
+	<relation id="7607678" version="1" timestamp="2017-09-26T10:24:04Z" changeset="0">
+		<member type="way" ref="527797088" role="outer"/>
+		<member type="way" ref="59698699" role="outer"/>
+		<member type="way" ref="527797092" role="outer"/>
+		<tag k="name" v="Школа №12"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name:cv" v="12-мӗш шкул"/>
+	</relation>
+	<relation id="7613045" version="3" timestamp="2021-02-26T11:12:02Z" changeset="0">
+		<member type="way" ref="60203101" role="outer"/>
+		<member type="way" ref="911201355" role="outer"/>
+		<member type="way" ref="911201358" role="outer"/>
+		<member type="way" ref="911201357" role="outer"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name" v="Школа-интернат"/>
+		<tag k="name:cv" v="Интернат шкул"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="wheelchair" v="yes"/>
+	</relation>
+	<relation id="7769056" version="2" timestamp="2017-11-29T16:11:59Z" changeset="0">
+		<member type="way" ref="139135691" role="outer"/>
+		<member type="way" ref="141092463" role="outer"/>
+		<tag k="name" v="Школа №63"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="amenity" v="school"/>
+	</relation>
+	<relation id="7923724" version="1" timestamp="2018-01-22T08:26:58Z" changeset="0">
+		<member type="way" ref="55496998" role="outer"/>
+		<member type="way" ref="554810860" role="outer"/>
+		<tag k="name" v="Школа №18"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name:cv" v="18-мӗш шкул"/>
+	</relation>
+	<relation id="7936312" version="1" timestamp="2018-01-26T12:36:13Z" changeset="0">
+		<member type="way" ref="60123403" role="outer"/>
+		<member type="way" ref="102649750" role="outer"/>
+		<tag k="name" v="Школа №57"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name:cv" v="57-мӗш шкул"/>
+	</relation>
+	<relation id="7964394" version="2" timestamp="2021-06-28T12:04:43Z" changeset="0">
+		<member type="way" ref="58491672" role="outer"/>
+		<member type="way" ref="557654019" role="outer"/>
+		<tag k="amenity" v="school"/>
+		<tag k="barrier" v="fence"/>
+		<tag k="email" v="cheb_sosh64@inbox.ru"/>
+		<tag k="name" v="Школа №64"/>
+		<tag k="name:cv" v="64-мӗш шкул"/>
+		<tag k="official_name" v="Муниципальное бюджетное общеобразовательное учреждение &#34;Средняя общеобразовательная школа № 64&#34;"/>
+		<tag k="phone" v="8 8352 315190"/>
+		<tag k="start_date" v="09.12.1999"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="website" v="http://21202s20.edusite.ru/"/>
+	</relation>
+	<relation id="8187282" version="1" timestamp="2018-04-06T22:50:14Z" changeset="0">
+		<member type="way" ref="577315504" role="outer"/>
+		<member type="way" ref="577315505" role="outer"/>
+		<member type="way" ref="58883281" role="outer"/>
+		<member type="way" ref="577315510" role="outer"/>
+		<member type="way" ref="577315514" role="outer"/>
+		<member type="way" ref="217432514" role="outer"/>
+		<member type="way" ref="577315512" role="outer"/>
+		<member type="way" ref="577315511" role="outer"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="amenity" v="school"/>
+	</relation>
+	<relation id="10016007" version="1" timestamp="2019-09-08T14:53:03Z" changeset="0">
+		<member type="way" ref="204049306" role="outer"/>
+		<member type="way" ref="256482181" role="outer"/>
+		<member type="way" ref="256496597" role="outer"/>
+		<tag k="name" v="Школа №1"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="email" v="mail@sosh-1.ru"/>
+		<tag k="phone" v="+7-(8352)-32-01-63"/>
+		<tag k="amenity" v="school"/>
+		<tag k="website" v="https://sosh-1.ru/"/>
+	</relation>
+	<relation id="11069554" version="3" timestamp="2021-02-26T11:12:02Z" changeset="0">
+		<member type="way" ref="215266398" role="outer"/>
+		<member type="way" ref="911201360" role="outer"/>
+		<tag k="amenity" v="school"/>
+		<tag k="name" v="Коррекционная школа №2"/>
+		<tag k="type" v="multipolygon"/>
+	</relation>
+</osm>

@@ -1,0 +1,84 @@
+version: "3.8"
+services:
+  backend:
+    build:
+      args:
+        user: ${USER}
+        uid: ${USER_ID}
+      context: ./backend
+      dockerfile: dockerfile
+    image: backend
+    container_name: backend
+    restart: unless-stopped
+    working_dir: /var/www/
+    command: php-fpm -R # Allow running FPM as root
+    environment:
+      DB_HOST: mysql
+      DB_USERNAME: "${MYSQL_USER}"
+      DB_PASSWORD: "${MYSQL_PASSWORD}"
+      DB_DATABASE: "${MYSQL_DATABASE}"
+      # MONGO_HOST: mongo
+      # MONGO_USERNAME: "${MONGO_ROOT}"
+      # MONGO_PASSWORD: "${MONGO_PASSWORD}"
+
+      # AMO_DOMAIN: "${AMO_DOMAIN}"
+      # AMO_CLIENT_ID: "${AMO_CLIENT_ID}"
+      # AMO_CLIENT_SECRET: "${AMO_CLIENT_SECRET}"
+      # AMO_REDIRECT_URL: "${AMO_REDIRECT_URL}"
+    volumes:
+      - ./backend:/var/www
+      - ./data/phpfpm/zzz-docker.conf:/usr/local/etc/php-fpm.d/zzz-docker.conf
+  worker:
+    build:
+      args:
+        user: ${USER}
+        uid: ${USER_ID}
+      context: ./backend
+      dockerfile: dockerfile.worker
+    image: backend-worker
+    restart: unless-stopped
+    working_dir: /var/www/
+    environment:
+      DB_HOST: mysql
+      DB_USERNAME: "${MYSQL_USER}"
+      DB_PASSWORD: "${MYSQL_PASSWORD}"
+      DB_DATABASE: "${MYSQL_DATABASE}"
+      # MONGO_HOST: mongo
+      # MONGO_USERNAME: "${MONGO_ROOT}"
+      # MONGO_PASSWORD: "${MONGO_PASSWORD}"
+    volumes:
+      - ./backend:/var/www
+  nginx:
+    image: nginx:latest
+    container_name: backend-nginx
+    restart: unless-stopped
+    ports:
+      - 80:80
+    volumes:
+      - ./backend:/var/www
+      - ./data/nginx:/etc/nginx/conf.d
+  mysql:
+    image: mysql
+    platform: linux/x86_64
+    volumes:
+      - db_data:/var/lib/mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: "${MYSQL_ROOT_PASSWORD}"
+      MYSQL_DATABASE: "${MYSQL_DATABASE}"
+      MYSQL_USER: "${MYSQL_USER}"
+      MYSQL_PASSWORD: "${MYSQL_PASSWORD}"
+    
+  phpmyadmin:
+    image: phpmyadmin
+    restart: always
+    ports:
+      - 8080:80
+    environment:
+      PMA_ARBITRARY: 0
+      PMA_HOST: mysql 
+      # PMA_USER: "${MYSQL_USER}"
+      # PMA_PASSWORD: "${MYSQL_PASSWORD}"
+
+volumes:
+  db_data:
